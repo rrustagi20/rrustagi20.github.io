@@ -8,15 +8,15 @@
 # Site settings
 title: Rahul Rustagi
 full_name: Rahul Rustagi
-email: kalpeshk2011@gmail.com
-email2: kalpeshk@google.com
+email: rustagirahul24@gmail.com
+# email2: kalpeshk@google.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rrustagi20.github.io" # the base hostname & protocol for your site
 github_username:  rrustagi20
-twitter_username: kalpeshk2011
-linkedin_username: kalpesh-krishna-6b3827a6
-stackoverflow: 5080995/martianwars
+# twitter_username: kalpeshk2011
+linkedin_username: rahul-rustagi-34254321b
+# stackoverflow: 5080995/martianwars
 include: ['_pages']
 footer-links-active:
   stackoverflow: true
