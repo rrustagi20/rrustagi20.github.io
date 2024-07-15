@@ -5,9 +5,11 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/PROFILE.png">
 
-My name is Rahul Rustagi, and I am a Masters student at Georgia Institute of Technology in ECE starting Fall 2024. I received my undergraduate degree at [IIT Kanpur](http://iitk.ac.in) in Aerosapce Engineering with Minors in Computer Systems, Machine Learning and English Literature. 
+My name is Rahul Rustagi, and I am an incoming Masters student at Georgia Institute of Technology in ECE starting Fall 2024. I received my undergraduate degree at [IIT Kanpur](http://iitk.ac.in) in Aerosapce Engineering with Minors in Computer Systems, Machine Learning and English Literature. 
 
-I recently worked as a Project Employee at the [Helicopter and VTOL Lab](https://home.iitk.ac.in/~abhish/) and worked to publish papers in the field of Aerial Robotics. I worked with writing embedded code to implementing optimisation and machine learning algorithms on flight computer during in-flight operations.
+I recently worked as a Project Employee at the [Helicopter and VTOL Lab](https://home.iitk.ac.in/~abhish/) and published papers in the field of Aerial Robotics. I am proficient in writing embedded code to implementing optimisation and machine learning algorithms on flight computer during in-flight operations. 
+
+My research interests broadly include **Image Processing, Control, Optimisation, Reinforcement Learning** and I am skilled in impementing these for robotics based applications.
 
 Before this, I've done some research internships at [Carleton University](https://carleton.ca/) (Summer 2023), [WSN Lab, IITK](https://wsn.rajeshmhegde.com/) (Summer 2022 - Spring 2022).
 
