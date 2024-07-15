@@ -19,5 +19,5 @@ At IIT Kanpur, I've been part of technical societies and cultural clubs. I led t
 
 When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also [collect]({{ site.url }}/assets/rubik.jpg) Rubiks puzzles! I participated in WCA competitions but just for fun.
 
-<img style="float: left; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png">
+<img style="float: left; width: 30%; padding: 6px;" src=" {{ site.url }}/assets/gt.png">
 <img style="float: right; width: 25%; padding: 6px;" src=" {{ site.url }}/assets/iitlogo.jpg">
