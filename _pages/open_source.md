@@ -17,6 +17,14 @@ Github Link: [aerial/shastra23](https://github.com/AerialRobotics-IITK/shastra23
 
 #### **Other Research (Course Projects)**
 
+**Autonomous Landing of UAV using Model Predictive Controller**   
+Course: CS637 (Embedded and Cyber-Physical Systems): This project is a ROS simulation of a IRIS UAV (by eth-z) landing on a the top a husky platform. A MPC controller has been setup for predicting the optimal trajectory according to the reference trajectory fed to the drone. Two cases have been tested; one where the platform is stationary and other where the platform is moving. This is done inorder to test the response and accuracy of the controller. However due to issues with velocity contoller, the simulation is not present on our github link. Please stay tuned for updates on this.
+Github Link: [rahul/mpc_autoland](https://github.com/rrustagi20/MPC_AutoLanding/tree/main)
+
+**Machine Unlearning using model treatment techniques**   
+Course: CS772 (Probabilistic Machine Learning): This project is a ROS simulation of a IRIS UAV (by eth-z) landing on a the top a husky platform. A MPC controller has been setup for predicting the optimal trajectory according to the reference trajectory fed to the drone. Two cases have been tested; one where the platform is stationary and other where the platform is moving. This is done inorder to test the response and accuracy of the controller. However due to issues with velocity contoller, the simulation is not present on our github link. Please stay tuned for updates on this.
+Github Link: [rahul/mpc_autoland](https://github.com/rrustagi20/MPC_AutoLanding/tree/main)
+
 <!-- []() -->
 <!-- [Self-supervised Learning on 3D Point Clouds](https://github.com/rrustagi20/pointnet-acd-deformations): New algorithms for self-supervised learning on point clouds, where we teach models to discriminate between real and fake objects. To create fake objects, we perform global perturbations to segments of an object derived from [Approximate Convex Decomposition](https://arxiv.org/abs/2003.13834) ([report]({{ site.url }}/assets/point_cloud_discriminate.pdf)).
 
@@ -38,11 +46,11 @@ Github Link: [aerial/shastra23](https://github.com/AerialRobotics-IITK/shastra23
 
 [ECG Signal Analysis](https://github.com/rrustagi20/ecg-analysis) - Python implementation of parts of Christopher Buck, Aneesh Sampath 2013, “[ECG Signal Analysis for Myocardial Infarction Detection.](https://cnx.org/contents/VZtarYnV@2.1:WO1d4SJW@1/Introduction)”.   -->
 
-#### **Course Materials**
+<!-- #### **Course Materials** -->
 
 <!-- [Homework](https://github.com/rrustagi20/allennlp-probe-hw) on linguistic probe tasks designed for UMass Amherst's grad NLP class using [AllenNLP](https://allennlp.org/). -->
 
-#### **Open Source Contributions**
+<!-- #### **Open Source Contributions** -->
 
 <!-- * Primary Contributor / Maintainer - [mozilla/wptview](https://github.com/mozilla/wptview)
 * Significant Contributions - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev/) (Firefox), [mozilla/treeherder](https://github.com/mozilla/treeherder), [mozilla/mozilla_ci_tools](https://github.com/mozilla/mozilla_ci_tools)
