@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png">
+<!-- <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png"> -->
 
 I am an incoming Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab.
 
@@ -18,3 +18,6 @@ In Summer 2022, I interned at the [WSN and IoT Laboratory](https://wsn.rajeshmhe
 At IIT Kanpur, I've been part of technical societies and cultural clubs. I led the [Aerial Robotics Team](https://github.com/AerialRobotics-IITK) to learn building custom drones, electronics assembly and pilot one! I had a fun time learning, teaching and leading the team in competitions. One of the core thigs that started off my passion in this field. 
 
 When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also [collect]({{ site.url }}/assets/rubik.jpg) Rubiks puzzles! I participated in WCA competitions but just for fun.
+
+<img style="float: left; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/iitlogo.png">

@@ -35,3 +35,4 @@ Email ID: [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)
   <tr><td><b>Feb 2024:</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10445698">paper</a> on extending previous work to mobile IoT networks with a multi-objective data offloading and charging function got accepted to IEEE Transactions on Circuits and Systems II: Express Briefs</td></tr>
   <tr><td><b>Aug 2023:</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10152078/">paper</a> on employing novel deep reinforcement learning algorithms for time-effecient energy transmitting scheduling in low-powered IoT networks got accepted at the 2022 IEEE World Forum on Internet of Things (WF-IoT)</td></tr>
   <tr><td><b>May 2023:</b></td><td>Joined the WSN and IoT Laboratory at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr>
+
