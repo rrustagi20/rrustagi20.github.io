@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/cv.pdf
+permalink: /assets/Rahul_CV.pdf
 order: 2
 ---
 
