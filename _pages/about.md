@@ -17,7 +17,7 @@ In Summer 2022, I interned at the [WSN and IoT Laboratory](https://wsn.rajeshmhe
 
 At IIT Kanpur, I've been part of technical societies and cultural clubs. I led the [Aerial Robotics Team](https://github.com/AerialRobotics-IITK) to learn building custom drones, electronics assembly and pilot one! I had a fun time learning, teaching and leading the team in competitions. One of the core thigs that started off my passion in this field. 
 
-When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also [collect]({{ site.url }}/assets/rubik.jpg) Rubiks puzzles! I participated in WCA competitions but just for fun.
+When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also collect Rubiks puzzles! I have participated in WCA competitions for fun.
 
 <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
 <img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg">

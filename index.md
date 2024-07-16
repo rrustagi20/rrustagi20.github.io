@@ -9,11 +9,11 @@ My name is Rahul Rustagi, and I am an incoming Masters student at Georgia Instit
 
 I recently worked as a Project Employee at the [Helicopter and VTOL Lab](https://home.iitk.ac.in/~abhish/) and published papers in the field of Aerial Robotics. I am proficient in writing embedded code to implementing optimisation and machine learning algorithms on flight computer during in-flight operations. 
 
-Before this, I've done some research internships at [Carleton University](https://carleton.ca/) (Summer 2023), [WSN Lab, IITK](https://wsn.rajeshmhegde.com/) (Summer 2022 - Spring 2022).
+Before this, I've done research internships at [Carleton University](https://carleton.ca/) (Summer 2023) and [WSN Lab, IITK](https://wsn.rajeshmhegde.com/) (Summer 2022 - Spring 2022).
 
 My research interests broadly include **Image Processing, Control, Optimisation, Reinforcement Learning** and I am skilled in impementing these for robotics based applications.
 
-Please find a list of my publications under the [Research]({{ site.url }}/research) tab. 
+**Please find a list of my publications under the [Research]({{ site.url }}/research) tab.**
 <!-- I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. -->
 
 [CV / Resume]({{ site.url }}/assets/Rahul_CV.pdf), [Google Scholar](https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en)
