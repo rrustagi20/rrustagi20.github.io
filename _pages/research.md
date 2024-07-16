@@ -22,6 +22,6 @@ landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA Sc
 
 ## Undergraduate Thesis
 
-[BTech Project - Autonomous Landing on an Oscillating Platform]({{ site.url }}/assets/rustagi_rahul_ugp.pdf)  
+[BTech Project - Autonomous Landing of an Unmanned Aerial Vehicle on an Oscillating Platform]({{ site.url }}/assets/rustagi_rahul_ugp.pdf)  
 *(under guidance of [Prof. Abhishek](https://home.iitk.ac.in/~abhish/))*  
 IIT Kanpur *(2023-2024)*  
