@@ -9,9 +9,9 @@ My name is Rahul Rustagi, and I am an incoming Masters student at Georgia Instit
 
 I recently worked as a Project Employee at the [Helicopter and VTOL Lab](https://home.iitk.ac.in/~abhish/) and published papers in the field of Aerial Robotics. I am proficient in writing embedded code to implementing optimisation and machine learning algorithms on flight computer during in-flight operations. 
 
-My research interests broadly include **Image Processing, Control, Optimisation, Reinforcement Learning** and I am skilled in impementing these for robotics based applications.
-
 Before this, I've done some research internships at [Carleton University](https://carleton.ca/) (Summer 2023), [WSN Lab, IITK](https://wsn.rajeshmhegde.com/) (Summer 2022 - Spring 2022).
+
+My research interests broadly include **Image Processing, Control, Optimisation, Reinforcement Learning** and I am skilled in impementing these for robotics based applications.
 
 Please find a list of my publications under the [Research]({{ site.url }}/research) tab. 
 <!-- I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. -->
@@ -28,7 +28,7 @@ Email ID: [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)
 <col width="650px">
 
   <tr><td><b>Aug 2024:</b></td><td>Starting Masters program at Georgia Tech in ECE</td></tr>
-  <tr><td><b>Jul 2024:</b></td><td>Graduated from IIT Kanpur :)</td></tr>
+  <tr><td><b>July 2024:</b></td><td>Graduated from IIT Kanpur :)</td></tr>
   <tr><td><b>May 2024:</b></td><td>Submitted our paper in 2025 AIAA SciTech Conference to be held in Orlando, Florida</td></tr>
   <tr><td><b>Apr 2024:</b></td><td>Delivered my BTech presentation in front of the undergraduate committee</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Joined the Helicopter and VTOL Laboratory at IIT Kanpur to work under guidance of <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a></td></tr>
