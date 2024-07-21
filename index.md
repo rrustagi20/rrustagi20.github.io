@@ -16,7 +16,7 @@ My research interests broadly include **Image Processing, SLAM, Control and Opti
 **Please find a list of my publications under the [Research]({{ site.url }}/research) tab.**
 <!-- I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences. -->
 
-[CV / Resume]({{ site.url }}/assets/Rahul_CV.pdf), [Google Scholar](https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en)
+[CV / Resume]({{ site.url }}/assets/Rahul_cv.pdf), [Google Scholar](https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en)
 <!-- [Semantic Scholar](https://www.semanticscholar.org/author/Kalpesh-Krishna/26161085)   -->
 Email ID: [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)  
 
