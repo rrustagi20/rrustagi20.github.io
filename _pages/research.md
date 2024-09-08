@@ -12,7 +12,7 @@ I am broadly interested in Embedded Level Programming on Hardware and implementi
 
 * C. Prachand, R. Rustagi, R. Shankar, J. Singh, A. Abhishek, K.S. Venkatesh, "Vision-Based Autonomous Ship Deck
 landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA SciTech Forum.    
-*(Under Review)*
+*(Accepted)*
 
 * A. Singh, R. Rustagi and R. M. Hegde, "Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2024.3370686.  
 [Paper Link](https://ieeexplore.ieee.org/abstract/document/10445698)
