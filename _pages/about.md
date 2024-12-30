@@ -21,3 +21,42 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 
 <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
 <img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg">
+
+<div class="timeline">
+  <div class="timeline-item">
+    <h3>Fall 2024</h3>
+    <p>Starting Master's in Robotics at Georgia Tech.</p>
+  </div>
+  <div class="timeline-item">
+    <h3>Spring–Summer 2024</h3>
+    <p>
+      Worked as a Project Associate in the Helicopter and VTOL Laboratory at IIT Kanpur. 
+      Gained experience in PX4 autopilot, RTOS, and real-time trajectory optimization.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>Summer 2023</h3>
+    <p>
+      MITACS GRI Scholar at Carleton University, Canada. Collaborated with Prof. Chao Shen 
+      to improve SLAM benchmarks and localization algorithms.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>Summer–Fall 2022</h3>
+    <p>
+      Research intern at the WSN and IoT Laboratory, IIT Kanpur. Published work on wireless 
+      charging optimization in IEEE Conference and IEEE Transactions.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>2021–2024</h3>
+    <p>
+      Led the Aerial Robotics Team at IIT Kanpur, building custom drones and participating 
+      in competitions.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>2020–2024</h3>
+    <p>BTech in Aerospace Engineering at IIT Kanpur.</p>
+  </div>
+</div>
