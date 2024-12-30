@@ -250,3 +250,37 @@
         }
     }
 }
+
+.timeline {
+    border-left: 2px solid #3498db;
+    margin: 20px 0;
+    padding: 0 0 0 20px;
+    position: relative;
+}
+
+.timeline-item {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.timeline-item h3 {
+    margin: 0;
+    color: #3498db;
+}
+
+.timeline-item p {
+    margin: 5px 0 0;
+    color: #333;
+}
+
+.timeline-item::before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #3498db;
+    position: absolute;
+    left: -6px;
+    top: 5px;
+}
+
