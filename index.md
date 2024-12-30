@@ -26,9 +26,9 @@ Email ID: [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)
 <table>
 <col width="100px">
 <col width="650px">
-
+  <tr><td><b>Aug 2024:</b></td><td>Working at the <a href="https://ieeexplore.ieee.org/abstract/document/10445698">ivaLAB</a> with Dr. Patricio A Vela to develop reliable fail-proof navigation methods in robotics</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our paper on "Vision-Guided autonomous UAV landing on moving ship" got accepted in 2025 AIAA SciTech Conference to be held in Orlando, Florida</td></tr>
-  <tr><td><b>Aug 2024:</b></td><td>Starting Masters program at Georgia Tech in ECE</td></tr>
+  <tr><td><b>Aug 2024:</b></td><td>Starting Masters in ECE at Georgia Tech in ECE</td></tr>
   <tr><td><b>July 2024:</b></td><td>Graduated from IIT Kanpur :)</td></tr>
   <tr><td><b>Apr 2024:</b></td><td>Successfully Defended my BTech thesis in front of the undergraduate committee</td></tr>
   <tr><td><b>Nov 2023:</b></td><td>Joined the Helicopter and VTOL Laboratory at IIT Kanpur to work under guidance of <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a></td></tr>
