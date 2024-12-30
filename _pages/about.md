@@ -24,49 +24,39 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-image">
-        <!-- Add your image here -->
-        <img src="path-to-image/fall-2024.png" alt="Fall 2024">
-      </div>
-      <div class="timeline-details">
-        <h3 class="timeline-date">Fall 2024</h3>
-        <p>Starting Master's in Robotics at Georgia Tech.</p>
-      </div>
-    </div>
+    <h3>Fall 2024</h3>
+    <p>Starting Master's in Robotics at Georgia Tech.</p>
   </div>
-
   <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-image">
-        <!-- Add your image here -->
-        <img src="path-to-image/project-associate.png" alt="Spring-Summer 2024">
-      </div>
-      <div class="timeline-details">
-        <h3 class="timeline-date">Spring–Summer 2024</h3>
-        <p>
-          Worked as a Project Associate in the Helicopter and VTOL Laboratory at IIT Kanpur. 
-          Gained experience in PX4 autopilot, RTOS, and real-time trajectory optimization.
-        </p>
-      </div>
-    </div>
+    <h3>Spring–Summer 2024</h3>
+    <p>
+      Worked as a Project Associate in the Helicopter and VTOL Laboratory at IIT Kanpur. 
+      Gained experience in PX4 autopilot, RTOS, and real-time trajectory optimization.
+    </p>
   </div>
-
   <div class="timeline-item">
-    <div class="timeline-content">
-      <div class="timeline-image">
-        <!-- Add your image here -->
-        <img src="path-to-image/mitacs.png" alt="Summer 2023">
-      </div>
-      <div class="timeline-details">
-        <h3 class="timeline-date">Summer 2023</h3>
-        <p>
-          MITACS GRI Scholar at Carleton University, Canada. Collaborated with Prof. Chao Shen 
-          to improve SLAM benchmarks and localization algorithms.
-        </p>
-      </div>
-    </div>
+    <h3>Summer 2023</h3>
+    <p>
+      MITACS GRI Scholar at Carleton University, Canada. Collaborated with Prof. Chao Shen 
+      to improve SLAM benchmarks and localization algorithms.
+    </p>
   </div>
-
-  <!-- Add more timeline items as needed -->
+  <div class="timeline-item">
+    <h3>Summer–Fall 2022</h3>
+    <p>
+      Research intern at the WSN and IoT Laboratory, IIT Kanpur. Published work on wireless 
+      charging optimization in IEEE Conference and IEEE Transactions.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>2021–2024</h3>
+    <p>
+      Led the Aerial Robotics Team at IIT Kanpur, building custom drones and participating 
+      in competitions.
+    </p>
+  </div>
+  <div class="timeline-item">
+    <h3>2020–2024</h3>
+    <p>BTech in Aerospace Engineering at IIT Kanpur.</p>
+  </div>
 </div>
