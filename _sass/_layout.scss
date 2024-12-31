@@ -257,43 +257,32 @@
 .timeline {
     list-style: none;
     padding: 0;
+    margin: 0;
     position: relative;
     max-width: 800px;
     margin: 0 auto;
   }
   
-  /* Timeline vertical line */
-  .timeline:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: #3498db;
-    left: 50%;
-    margin-left: -2px;
-  }
-  
   /* Timeline items */
   .timeline li {
-    position: relative;
+    display: flex;
+    align-items: flex-start;
     margin-bottom: 50px;
+    position: relative;
   }
   
   /* Timeline icons */
   .timeline-icon {
-    position: absolute;
-    top: 0;
-    left: 50%;
+    flex: 0 0 60px;
     width: 60px;
     height: 60px;
-    margin-left: -30px;
     background: #fff;
     border: 2px solid #3498db;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-right: 20px;
   }
   
   .timeline-icon img {
@@ -302,48 +291,46 @@
     border-radius: 50%;
   }
   
+  /* Vertical line */
+  .timeline:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #3498db;
+    left: 100px; /* Adjust based on icon size and margin */
+    margin-left: -2px;
+  }
+  
+  /* Timeline date */
+  .timeline-date {
+    flex: 0 0 100px;
+    text-align: right;
+    margin-right: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #3498db;
+  }
+  
   /* Timeline content */
   .timeline-content {
-    position: relative;
-    width: 45%;
-    padding: 20px;
+    flex: 1;
     background: #3498db;
     color: #fff;
+    padding: 20px;
     border-radius: 8px;
+    position: relative;
   }
   
   .timeline-content:before {
     content: '';
     position: absolute;
     top: 20px;
+    left: -10px;
     width: 0;
     height: 0;
     border-style: solid;
-  }
-  
-  .timeline li:nth-child(odd) .timeline-content {
-    left: 0;
-  }
-  
-  .timeline li:nth-child(odd) .timeline-content:before {
-    right: -20px;
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent #3498db;
-  }
-  
-  .timeline li:nth-child(even) .timeline-content {
-    left: 55%;
-  }
-  
-  .timeline li:nth-child(even) .timeline-content:before {
-    left: -20px;
     border-width: 10px 10px 10px 0;
     border-color: transparent #3498db transparent transparent;
-  }
-  
-  /* Timeline date */
-  .timeline-date {
-    margin-top: 0;
-    font-size: 1.2em;
-    font-weight: bold;
   }
