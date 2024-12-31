@@ -25,7 +25,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 <ul class="timeline">
   <li>
     <div class="timeline-icon">
-      <img src="path-to-image1.jpg" alt="Event 1">
+      <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
     </div>
     <div class="timeline-content">
       <h3 class="timeline-date">Summer 2023</h3>
