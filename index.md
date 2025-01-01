@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/PROFILE.png">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/rahul_can.jpg">
 
 I am a Masters Student at the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering at Georgia Tech</a>. I work at the intersection of Perception in Robotics and Machine Learning. I like to use Computer Vision techniques in Robotics for building  intelligent robotic systems.
 
