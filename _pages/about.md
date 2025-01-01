@@ -23,14 +23,32 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 <img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg"> -->
 
 <ul class="timeline">
-  <li>
-    <div class="timeline-icon">
-      <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
-    </div>
-    <div class="timeline-content">
-      <h3 class="timeline-date">Summer 2023</h3>
-      <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
-    </div>
-  </li>
+    <li>
+        <div class="timeline-icon">
+            <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
+        </div>
+        <div class="timeline-content">
+            <h3 class="timeline-date">Summer 2023</h3>
+            <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
+        </div>
+    </li>
+    <li>
+        <div class="timeline-icon">
+            <img src="{{ site.url }}/assets/iitlogo.png" alt="Event 2">
+        </div>
+        <div class="timeline-content">
+            <h3 class="timeline-date">Summer 2023</h3>
+            <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
+        </div>
+    </li>
+    <li>
+        <div class="timeline-icon">
+            <img src="{{ site.url }}/assets/carleton.png" alt="Event 3">
+        </div>
+        <div class="timeline-content">
+            <h3 class="timeline-date">Summer 2023</h3>
+            <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
+        </div>
+    </li>
   <!-- Repeat for other timeline items -->
 </ul>
