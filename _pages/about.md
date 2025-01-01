@@ -19,10 +19,10 @@ At IIT Kanpur, I've been part of technical societies and cultural clubs. I led t
 
 When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also collect Rubiks puzzles! I have participated in WCA competitions for fun.
 
-<!-- <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
-<img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg"> -->
+<img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
+<img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg">
 
-<ul class="timeline">
+<!-- <ul class="timeline">
     <li>
         <div class="timeline-icon">
             <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
@@ -50,5 +50,4 @@ When I'm not working, I am either playing guitar trying to make a cover or going
             <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
         </div>
     </li>
-  <!-- Repeat for other timeline items -->
-</ul>
+</ul> -->
