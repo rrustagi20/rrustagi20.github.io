@@ -56,10 +56,13 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 </table>
 </div>
 
+
+#### Publications
+
+
 <div class="publication-section">
   <!-- <h2>Publications</h2> -->
 
-  #### Publications
 
   <div class="publication-item">
     <div class="publication-img">
