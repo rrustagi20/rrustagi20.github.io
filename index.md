@@ -53,3 +53,51 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
   <tr><td><b>Aug 2023 :</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10152078/">paper</a> on employing novel deep reinforcement learning algorithms for time-effecient energy transmitting scheduling in low-powered IoT networks got accepted at the 2022 IEEE World Forum on Internet of Things (WF-IoT)</td></tr>
   <tr><td><b>May 2022 :</b></td><td>Joined the <a href="https://wsn.rajeshmhegde.com/?_gl=1%2A8nphkr%2A_ga%2AMTA4Njk0MDEwMS4xNzM1NjkwNjU0%2A_ga_Y7Z926VDE6%2AMTczNTY5MDY1NC4xLjAuMTczNTY5MDY1NC4wLjAuMA..">WSN and IoT Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr>
 
+
+<div class="publication-section">
+  <h2>Publications</h2>
+
+  <div class="publication-item">
+    <div class="publication-img">
+      <img src="{{ site.url }}/assets/vision.png" alt="EgoMimic">
+    </div>
+    <div class="publication-text">
+      <h3>
+        <a href="#">Vision-Based Autonomous Ship Deck landing of an Unmanned Aerial Vehicle using Fractal ArUco markers</a>
+      </h3>
+      <p>Chiranjeev Prachand, Rahul Rustagi, Ritwik Shankar, Jitendra Singh, Abhishek and K.S. Venkatesh</p>
+      <p><strong>AIAA SciTech Forum 2025</strong></p>
+      <p>Robot Learning from Egocentric Human Data</p>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-img">
+      <img src="{{ site.url }}/assets/rl1.png" alt="NOD-TAMP">
+    </div>
+    <div class="publication-text">
+      <h3>
+        <a href="#">Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning</a>
+      </h3>
+      <p>Aditya Singh, Rahul Rustagi, Rajesh M. Hegde</p>
+      <p><strong>IEEE Transactions on Circuits and Systems II: Express Briefs</strong></p>
+      <p>Solving multi-step manipulation problems with zero-shot generalization.</p>
+    </div>
+  </div>
+
+  <div class="publication-item">
+    <div class="publication-img">
+      <img src="{{ site.url }}/assets/rl2.png" alt="NOD-TAMP">
+    </div>
+    <div class="publication-text">
+      <h3>
+        <a href="#">Mobile Energy Transmitter Scheduling in Energy Harvesting IoT Networks using Deep Reinforcement Learning</a>
+      </h3>
+      <p>Aditya Singh, Rahul Rustagi, Surender Redhu, Rajesh M. Hegde</p>
+      <p><strong>IEEE WF-IoT 2022</strong></p>
+      <p>Maximizing energy-harvesting in IoT networks using Deep RL algorithms </p>
+    </div>
+  </div>
+
+</div>
+
