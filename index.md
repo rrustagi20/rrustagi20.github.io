@@ -43,7 +43,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Jan 2025:</b></td><td>Graduate Teaching Assistant in Spring 2024 for the course CS3630: Introduction to Robotics and Perception under Dr. Sonia Chernova</td></tr>
+  <tr><td><b>Jan 2025:</b></td><td>Graduate Teaching Assistant in Spring 2024 for the course CS3630: Introduction to Robotics and Perception under <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Working at the <a href="https://github.com/ivalab">ivaLAB</a> with <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Dr. Patricio A Vela</a> to develop reliable fail-proof navigation methods in robotics</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our paper on "Vision-Guided autonomous UAV landing on moving ship" got accepted in 2025 AIAA SciTech Conference to be held in Orlando, Florida</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Starting Masters in ECE at Georgia Tech in ECE</td></tr>
@@ -55,6 +55,8 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
   <tr><td><b>May 2022 :</b></td><td>Joined the <a href="https://wsn.rajeshmhegde.com/?_gl=1%2A8nphkr%2A_ga%2AMTA4Njk0MDEwMS4xNzM1NjkwNjU0%2A_ga_Y7Z926VDE6%2AMTczNTY5MDY1NC4xLjAuMTczNTY5MDY1NC4wLjAuMA..">WSN and IoT Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr>
 </table>
 </div>
+<br>
+<!-- <br> -->
 
 
 #### Publications
@@ -84,11 +86,11 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
     </div>
     <div class="publication-text">
       <h3>
-        <a href="#">Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning</a>
       </h3>
       <p>Aditya Singh, Rahul Rustagi, Rajesh M. Hegde</p>
       <p><strong>IEEE Transactions on Circuits and Systems II: Express Briefs</strong></p>
-      <p></p>
+      <p>Generalising previous MET work to work on Mobile-IoT Networks for scalability</p>
     </div>
   </div>
 
@@ -98,11 +100,11 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
     </div>
     <div class="publication-text">
       <h3>
-        <a href="#">Mobile Energy Transmitter Scheduling in Energy Harvesting IoT Networks using Deep Reinforcement Learning</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10152078">Mobile Energy Transmitter Scheduling in Energy Harvesting IoT Networks using Deep Reinforcement Learning</a>
       </h3>
       <p>Aditya Singh, Rahul Rustagi, Surender Redhu, Rajesh M. Hegde</p>
       <p><strong>IEEE WF-IoT 2022</strong></p>
-      <p>Maximizing energy-harvesting in IoT networks using Deep RL algorithms </p>
+      <p>Maximizing longevity of static-IoT networks using Deep RL algorithms </p>
     </div>
   </div>
 
