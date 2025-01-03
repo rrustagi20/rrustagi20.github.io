@@ -52,49 +52,46 @@ When I'm not working, I am either playing guitar trying to make a cover or going
     </li>
 </ul> 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Technology History</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="history-container">
-        <h1>A Brief History of Technology</h1>
-        <div class="history">
-            <div class="history-item">
-                <div class="year">1970</div>
-                <div class="content">
-                    <p>The first Apple computer was released in April 1976. This was the first computer readily available to the general public. For the most part, society was pretty "green" to the whole concept.</p>
-                </div>
-            </div>
-            <div class="history-item">
-                <div class="year">1980</div>
-                <div class="content">
-                    <p>After Apple, other companies like IBM started creating personal computers and others followed shortly after, searching for new ways to introduce devices into people's everyday lives.</p>
-                </div>
-            </div>
-            <div class="history-item">
-                <div class="year">1990</div>
-                <div class="content">
-                    <p>The technological advancements made in the 90's were revolutionary. It gave birth to the World Wide Web, better known today as the Internet. Today, billions of dollars are made through this platform.</p>
-                </div>
-            </div>
-            <div class="history-item">
-                <div class="year">2000</div>
-                <div class="content">
-                    <p>Before this decade, a cell phone was just a phone. Many previously used devices adopted new purposes. With more people using tech to better their lives, internet security became a serious issue.</p>
-                </div>
-            </div>
-            <div class="history-item">
-                <div class="year">2010</div>
-                <div class="content">
-                    <p>This decade was filled with innovations, creations, and revelations beyond many people's wildest dreams.</p>
-                </div>
-            </div>
-        </div>
+# A Brief History of Technology
+
+<div class="history">
+  <div class="history-item left">
+    <div class="year">1970</div>
+    <div class="icon"><img src="icons/apple.png" alt="Apple Icon"></div>
+    <div class="content">
+      <p>The first Apple computer was released in April 1976. This was the first computer readily available to the general public. For the most part, society was pretty "green" to the whole concept.</p>
     </div>
-</body>
-</html>
+  </div>
+
+  <div class="history-item right">
+    <div class="year">1980</div>
+    <div class="icon"><img src="icons/ibm.png" alt="IBM Icon"></div>
+    <div class="content">
+      <p>After Apple, other companies like IBM started creating personal computers and others followed shortly after, searching for new ways to introduce devices into people's everyday lives.</p>
+    </div>
+  </div>
+
+  <div class="history-item left">
+    <div class="year">1990</div>
+    <div class="icon"><img src="icons/internet.png" alt="Internet Icon"></div>
+    <div class="content">
+      <p>The technological advancements made in the 90's were revolutionary. It gave birth to the World Wide Web, better known today as the Internet. Today, billions of dollars are made through this platform.</p>
+    </div>
+  </div>
+
+  <div class="history-item right">
+    <div class="year">2000</div>
+    <div class="icon"><img src="icons/security.png" alt="Security Icon"></div>
+    <div class="content">
+      <p>Before this decade, a cell phone was just a phone. Many previously used devices adopted new purposes. With more people using tech to better their lives, internet security became a serious issue.</p>
+    </div>
+  </div>
+
+  <div class="history-item left">
+    <div class="year">2010</div>
+    <div class="icon"><img src="icons/innovation.png" alt="Innovation Icon"></div>
+    <div class="content">
+      <p>This decade was filled with innovations, creations, and revelations beyond many people's wildest dreams.</p>
+    </div>
+  </div>
+</div>
