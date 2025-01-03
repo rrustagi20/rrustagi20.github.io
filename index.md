@@ -24,10 +24,10 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 
 <!-- {% raw %} -->
 <p align="center">
-  <a href="{{ site.url }}/assets/RahulCV.pdf">CV</a> /
-  <a href="{{ site.url }}/research">Publications</a> /
+  <a href="assets/RahulCV.pdf">CV</a> /
+  <a href="research">Publications</a> /
   <a href="https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en">Google Scholar</a> /
-  <a href="{{ site.url }}/assets/about">Bio</a> /
+  <a href="about">Bio</a> /
   <a href="mailto:rustagirahul24@gmail.com">Contact</a>
 </p>
 <!-- {% endraw %} -->
@@ -56,7 +56,9 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 </div>
 
 <div class="publication-section">
-  <h2>Publications</h2>
+  <!-- <h2>Publications</h2> -->
+
+  #### Publications
 
   <div class="publication-item">
     <div class="publication-img">
@@ -68,7 +70,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
       </h3>
       <p>Chiranjeev Prachand, Rahul Rustagi, Ritwik Shankar, Jitendra Singh, Abhishek and K.S. Venkatesh</p>
       <p><strong>AIAA SciTech Forum 2025</strong></p>
-      <p>Robot Learning from Egocentric Human Data</p>
+      <p>Autonomous landing of quadrotor on a moving ship-like platform solely using Vision and Deep Learning methods</p>
     </div>
   </div>
 
@@ -82,7 +84,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
       </h3>
       <p>Aditya Singh, Rahul Rustagi, Rajesh M. Hegde</p>
       <p><strong>IEEE Transactions on Circuits and Systems II: Express Briefs</strong></p>
-      <p>Solving multi-step manipulation problems with zero-shot generalization.</p>
+      <p></p>
     </div>
   </div>
 
