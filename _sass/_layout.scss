@@ -334,3 +334,57 @@
     border-width: 10px 10px 10px 0;
     border-color: transparent #3498db transparent transparent;
   }
+
+  .publication-section {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .publication-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    background: #fdf9db; /* Light yellow background */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .publication-img {
+    flex: 0 0 120px;
+    margin-right: 20px;
+  }
+  
+  .publication-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+  
+  .publication-text {
+    flex: 1;
+  }
+  
+  .publication-text h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #007acc;
+  }
+  
+  .publication-text h3 a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .publication-text h3 a:hover {
+    text-decoration: underline;
+  }
+  
+  .publication-text p {
+    margin: 5px 0;
+  }
+  
+  .publication-text strong {
+    color: #333;
+  }
