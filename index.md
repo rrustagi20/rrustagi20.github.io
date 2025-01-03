@@ -53,6 +53,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
   <tr><td><b>Aug 2023 :</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10152078/">paper</a> on employing novel deep reinforcement learning algorithms for time-effecient energy transmitting scheduling in low-powered IoT networks got accepted at the 2022 IEEE World Forum on Internet of Things (WF-IoT)</td></tr>
   <tr><td><b>May 2022 :</b></td><td>Joined the <a href="https://wsn.rajeshmhegde.com/?_gl=1%2A8nphkr%2A_ga%2AMTA4Njk0MDEwMS4xNzM1NjkwNjU0%2A_ga_Y7Z926VDE6%2AMTczNTY5MDY1NC4xLjAuMTczNTY5MDY1NC4wLjAuMA..">WSN and IoT Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr>
 </table>
+</div>
 
 <div class="publication-section">
   <h2>Publications</h2>
