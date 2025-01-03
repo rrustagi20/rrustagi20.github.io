@@ -274,7 +274,7 @@
   /* Timeline icons */
   .timeline-icon {
     flex: 0 0 60px;
-    width: 80px;
+    width: 100px;
     height: 80px;
     background: #fff;
     border: 2px solid #7acaff;
@@ -310,14 +310,14 @@
     margin-right: 20px;
     font-size: 1.2em;
     font-weight: bold;
-    color: #3498db;
+    color: #000000;
   }
   
   /* Timeline content */
   .timeline-content {
     flex: 1;
-    background: #7acaff;
-    color: #fff;
+    background: #b4dffc;
+    color: #000000;
     padding: 5px;
     border-radius: 2px;
     position: relative;
