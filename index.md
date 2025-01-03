@@ -59,14 +59,14 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 <!-- <br> -->
 
 
-#### Publications
+<!-- #### Publications
 
 
 <div class="publication-section">
   <!-- <h2>Publications</h2> -->
 
 
-  <div class="publication-item">
+  <!-- <div class="publication-item">
     <div class="publication-img">
       <img src="{{ site.url }}/assets/vision.png" alt="EgoMimic">
     </div>
@@ -108,5 +108,4 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
     </div>
   </div>
 
-</div>
-
+</div> -->

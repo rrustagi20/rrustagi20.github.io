@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: Bio
 permalink: /about/
 order: 1
 ---
 
 <!-- <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png"> -->
 
-I am an incoming Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab.
+I am a Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab.
 
 I recently finished my BTech at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) in Aerospace Engineering program. I was fortunate to be advised by [Prof. Abhishek](https://home.iitk.ac.in/~abhish/) and worked on exciting problems in domain of autonomous controls and vision guided navigation. I served as project associate to conduct my research in the Helicopter and VTOL Laboratory at IIT Kanpur (Spring 2024 - Summer 2024). I have worked with [PX4](https://docs.px4.io/main/en/) autopilot system and learned about RTOS alongside embedded level programming. I have had the opportunity to get myself skilled in understanding software systems integrated with ROS and understand communication protocols over distances. I am experienced working with Raspi and NVIDIA Jetson modules to implement Machine Learning models for state estimation and run constrained optimisation generating trajectory on aerial systems real-time.
 
@@ -19,10 +19,10 @@ At IIT Kanpur, I've been part of technical societies and cultural clubs. I led t
 
 When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also collect Rubiks puzzles! I have participated in WCA competitions for fun.
 
-<img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
-<img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg">
+<!-- <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
+<img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg"> -->
 
-<!-- <ul class="timeline">
+<ul class="timeline">
     <li>
         <div class="timeline-icon">
             <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
@@ -50,4 +50,4 @@ When I'm not working, I am either playing guitar trying to make a cover or going
             <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
         </div>
     </li>
-</ul> -->
+</ul> 
