@@ -22,7 +22,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 <!-- <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
 <img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg"> -->
 
-<ul class="timeline">
+<!-- <ul class="timeline">
     <li>
         <div class="timeline-icon">
             <img src="{{ site.url }}/assets/gt.png" alt="Event 1">
@@ -50,15 +50,15 @@ When I'm not working, I am either playing guitar trying to make a cover or going
             <p>Interned at Carleton University, working with Prof. Chao Shen on developing novel techniques for improving current benchmarks in SLAM and different localization algorithms.</p>
         </div>
     </li>
-</ul> 
+</ul>  -->
 
-# A Brief History of Technology
+# My Timeline in Academia
 
 <div class="history-section">
   <div class="history-block left">
     <div class="year">1970</div>
     <div class="content">
-      <div class="icon"><img src="icons/apple.png" alt="Apple Icon"></div>
+      <div class="icon"><img src="{{ site.url }}/assets/iitlogo.png" alt="Apple Icon"></div>
       <p>The first Apple computer was released in April 1976. This was the first computer readily available to the general public. For the most part, society was pretty "green" to the whole concept.</p>
     </div>
   </div>
@@ -66,7 +66,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
   <div class="history-block right">
     <div class="year">1980</div>
     <div class="content">
-      <div class="icon"><img src="icons/ibm.png" alt="IBM Icon"></div>
+      <div class="icon"><img src="{{ site.url }}/assets/gt.png" alt="IBM Icon"></div>
       <p>After Apple, other companies like IBM started creating personal computers and others followed shortly after, searching for new ways to introduce devices into people's everyday lives.</p>
     </div>
   </div>
@@ -74,7 +74,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
   <div class="history-block left">
     <div class="year">1990</div>
     <div class="content">
-      <div class="icon"><img src="icons/internet.png" alt="Internet Icon"></div>
+      <div class="icon"><img src="{{ site.url }}/assets/carleton.png" alt="Internet Icon"></div>
       <p>The technological advancements made in the 90's were revolutionary. It gave birth to the World Wide Web, better known today as the Internet. Today, billions of dollars are made through this platform.</p>
     </div>
   </div>
