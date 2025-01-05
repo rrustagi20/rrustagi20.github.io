@@ -7,9 +7,7 @@ order: 1
 
 <!-- <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png"> -->
 
-I am a Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab.
-
-I recently finished my BTech at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) in Aerospace Engineering program. I was fortunate to be advised by [Prof. Abhishek](https://home.iitk.ac.in/~abhish/) and worked on exciting problems in domain of autonomous controls and vision guided navigation. I served as project associate to conduct my research in the Helicopter and VTOL Laboratory at IIT Kanpur (Spring 2024 - Summer 2024). I have worked with [PX4](https://docs.px4.io/main/en/) autopilot system and learned about RTOS alongside embedded level programming. I have had the opportunity to get myself skilled in understanding software systems integrated with ROS and understand communication protocols over distances. I am experienced working with Raspi and NVIDIA Jetson modules to implement Machine Learning models for state estimation and run constrained optimisation generating trajectory on aerial systems real-time.
+I am a Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab. I recently finished my BTech at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) in Aerospace Engineering program. 
 
 I've spent some excellent summers in academia via internships. In the summer of 2023, I was a recipient of MITACS GRI Scholarship through which I interned at [Carleton University](https://carleton.ca/) in Canada, working with [Prof. Chao Shen](https://carleton.ca/sce/people/shen/) on developing novel techniques for improving current benchmarks in SLAM and different localisation algrithms. Since then, I have been discussing and working with him to include vision aided localisation improvements in current estimates of monte-carlo localisation algorithms. We are working towards a publication.
 
@@ -58,15 +56,19 @@ When I'm not working, I am either playing guitar trying to make a cover or going
   <div class="history-block left">
     <div class="year">1970</div>
     <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="Apple Icon"></div>
-      <p>The first Apple computer was released in April 1976. This was the first computer readily available to the general public. For the most part, society was pretty "green" to the whole concept.</p>
+      <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="Apple Icon"></div>
+      <p>Advisor: [Prof. Abhishek](https://home.iitk.ac.in/~abhish/). 
+
+    I worked on UAV landing in domain of autonomous controls and vision guided navigation. I served as project associate to conduct my research in the Helicopter and VTOL Laboratory at IIT Kanpur (Spring 2024 - Summer 2024). I have worked with [PX4](https://docs.px4.io/main/en/) autopilot system and learned about RTOS alongside embedded level programming. I integrated software systems with ROS and understood communication protocols over distances. I am deplopyed algorithms on NVIDIA Jetson TX2 to implement Machine Learning models for state estimation and run constrained optimisation generating trajectory on aerial systems real-time.
+
+**Skills Gained**: PX4, Motion Capture Integration, NVIDIA Jetson, ROS1, Raspi, Mechatronics, Piloting, Deep Learning, Vision Pose Estimation, OpenCV, Kalman Filters</p>
     </div>
   </div>
 
   <div class="history-block right">
     <div class="year">1980</div>
     <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="IBM Icon"></div>
+      <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="IBM Icon"></div>
       <p>After Apple, other companies like IBM started creating personal computers and others followed shortly after, searching for new ways to introduce devices into people's everyday lives.</p>
     </div>
   </div>
@@ -82,7 +84,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
   <div class="history-block right">
     <div class="year">2000</div>
     <div class="content">
-      <div class="icon"><img src="icons/security.png" alt="Security Icon"></div>
+      <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="Security Icon"></div>
       <p>Before this decade, a cell phone was just a phone. Many previously used devices adopted new purposes. With more people using tech to better their lives, internet security became a serious issue.</p>
     </div>
   </div>

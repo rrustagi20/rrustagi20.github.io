@@ -34,7 +34,6 @@ landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA Sc
 <div class="publication-section">
   <!-- <h2>Publications</h2> -->
 
-
   <div class="publication-item">
     <div class="publication-img">
       <img src="{{ site.url }}/assets/vision.png" alt="EgoMimic">
