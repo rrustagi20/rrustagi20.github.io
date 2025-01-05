@@ -7,15 +7,7 @@ order: 1
 
 <!-- <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png"> -->
 
-I am a Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab. I recently finished my BTech at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) in Aerospace Engineering program. 
-
-I've spent some excellent summers in academia via internships. In the summer of 2023, I was a recipient of MITACS GRI Scholarship through which I interned at [Carleton University](https://carleton.ca/) in Canada, working with [Prof. Chao Shen](https://carleton.ca/sce/people/shen/) on developing novel techniques for improving current benchmarks in SLAM and different localisation algrithms. Since then, I have been discussing and working with him to include vision aided localisation improvements in current estimates of monte-carlo localisation algorithms. We are working towards a publication.
-
-In the summer of 2022, I interned at the [WSN and IoT Laboratory](https://wsn.rajeshmhegde.com/) to work with [Dr. Rajesh Hegde](https://rajeshmhegde.com/) on developing scheduling algorithms for deploying a robot energy transmitter in a low powered network of IoT devices. We introduced novelty by exploiting deep reinforcement learning algorithms to adaptively learn the network configuration for deciding optimal path to be followed for effecient wireless charging. I was able to publish my work in IEEE Conference. I continued working further till Fall 2022 to extend the proposed solution to a time-varying IoT network and published my research into IEEE Transactions.
-
-At IIT Kanpur, I've been part of technical societies and cultural clubs. I led the [Aerial Robotics Team](https://github.com/AerialRobotics-IITK) to learn building custom drones, electronics assembly and pilot one! I had a fun time learning, teaching and leading the team in competitions. One of the core thigs that started off my passion in this field. 
-
-When I'm not working, I am either playing guitar trying to make a cover or going for a long walk. I also collect Rubiks puzzles! I have participated in WCA competitions for fun.
+I am a Masters student at Georgia Tech starting Fall 2024. I am looking for active opportunities to work in robotics projects and be a part of research lab. I recently finished my BTech at [Indian Institute of Technology, Kanpur](http://iitk.ac.in/) in Aerospace Engineering program. When I'm not working, I am either playing guitar trying to make a cover or do stargazing. I also collect Rubiks puzzles! I have participated in WCA competitions for fun.
 
 <!-- <img style="float: left; width: 30%; padding: 40px;" src=" {{ site.url }}/assets/gt.png">
 <img style="float: right; width: 23.5%; padding: 35px;" src=" {{ site.url }}/assets/iitlogo.jpg"> -->
