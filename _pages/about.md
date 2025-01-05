@@ -52,7 +52,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
     </li>
 </ul>  -->
 
-# My Timeline in Academia
+# A Brief description about my Academic Journey
 
 <div class="history-section">
   <div class="history-block left">
