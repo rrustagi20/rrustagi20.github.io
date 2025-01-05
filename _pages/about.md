@@ -50,19 +50,17 @@ When I'm not working, I am either playing guitar trying to make a cover or going
     </li>
 </ul>  -->
 
-# A Brief description about my Academic Journey
+
+# A Brief Timeline of my Academic Journey
 
 <div class="history-section">
   <div class="history-block left">
     <div class="year">1970</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="Apple Icon"></div>
-      <p>Advisor: [Prof. Abhishek](https://home.iitk.ac.in/~abhish/). 
-      
-
-    I worked on UAV landing in domain of autonomous controls and vision guided navigation. I served as project associate to conduct my research in the Helicopter and VTOL Laboratory at IIT Kanpur (Spring 2024 - Summer 2024). I have worked with [PX4](https://docs.px4.io/main/en/) autopilot system and learned about RTOS alongside embedded level programming. I integrated software systems with ROS and understood communication protocols over distances. I am deplopyed algorithms on NVIDIA Jetson TX2 to implement Machine Learning models for state estimation and run constrained optimisation generating trajectory on aerial systems real-time.
-
-**Skills Gained**: PX4, Motion Capture Integration, NVIDIA Jetson, ROS1, Raspi, Mechatronics, Piloting, Deep Learning, Vision Pose Estimation, OpenCV, Kalman Filters</p>
+      <p>Advisor: Prof. Abhishek. 
+      I worked at the Helicopter and VTOL Laboratory, to work in Software and Hardware components of autonomous landing pipline. I learned skills including OpenCV, PX4, Mechatronics, Embedded C. The project was a year long.
+    </p>
     </div>
   </div>
 
