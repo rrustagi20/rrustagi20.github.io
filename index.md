@@ -43,7 +43,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Jan 2025:</b></td><td>Graduate Teaching Assistant in Spring 2024 for the course CS3630: Introduction to Robotics and Perception under <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></td></tr>
+  <tr><td><b>Jan 2025:</b></td><td>Graduate Teaching Assistant in Spring 2025 for the course CS3630: Introduction to Robotics and Perception under <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Working at the <a href="https://github.com/ivalab">ivaLAB</a> with <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Dr. Patricio A Vela</a> to develop reliable fail-proof navigation methods in robotics</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our paper on "Vision-Guided autonomous UAV landing on moving ship" got accepted in 2025 AIAA SciTech Conference to be held in Orlando, Florida</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Starting Masters in ECE at Georgia Tech in ECE</td></tr>
