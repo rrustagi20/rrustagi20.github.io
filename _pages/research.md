@@ -41,7 +41,7 @@ landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA Sc
     </div>
     <div class="publication-text">
       <h3>
-        <a href="#">Vision-Based Autonomous Ship Deck landing of an Unmanned Aerial Vehicle using Fractal ArUco markers</a>
+        <a href="https://arc.aiaa.org/doi/10.2514/6.2025-2345">Vision-Based Autonomous Ship Deck landing of an Unmanned Aerial Vehicle using Fractal ArUco markers</a>
       </h3>
       <p>Chiranjeev Prachand, Rahul Rustagi, Ritwik Shankar, Jitendra Singh, Abhishek and K.S. Venkatesh</p>
       <p><strong>AIAA SciTech Forum 2025</strong></p>
