@@ -67,7 +67,7 @@ I am a Masters student at Georgia Tech starting Fall 2024. I am looking for acti
     <div class="year">Summer 2023</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/carleton_full.png" alt="Internet Icon"></div>
-      <p>I worked at the Advanced Optimization and Robotics Lab with Dr. Chao Shen, in implementing bencmark localization algorithms on ground robots. I developed a low-cost algorithm that integrates semantic information in the environment to fuse with benchmark lidar-based localization algorithms that works quite well. I learned skills including ROS1, Gazebo 9, Hardware Programming, ros-nav stack, AMCL, ICP, Lidar-SLAM, Loop Closure, evo. The project continued to be year long.</p>
+      <p>I worked at the Advanced Optimization and Robotics Lab with Dr. Chao Shen, in implementing bencmark localization algorithms on ground robots. I developed a low-cost algorithm that integrates semantic information in the environment with benchmark lidar-based localization algorithms and works quite well! I learned skills including ROS1, Gazebo 9, Hardware Programming, ros-nav stack, AMCL, ICP, Lidar-SLAM, Loop Closure, evo. The project continued to be year long.</p>
     </div>
   </div>
 
