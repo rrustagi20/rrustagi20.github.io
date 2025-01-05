@@ -51,48 +51,49 @@ When I'm not working, I am either playing guitar trying to make a cover or going
 </ul>  -->
 
 
-# A Brief Timeline of my Academic Journey
+# My Academic Journey
 
 <div class="history-section">
   <div class="history-block left">
-    <div class="year">1970</div>
+    <div class="year">Fall 2024</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="Apple Icon"></div>
-      <p>Advisor: Prof. Abhishek. 
-      I worked at the Helicopter and VTOL Laboratory, to work in Software and Hardware components of autonomous landing pipline. I learned skills including OpenCV, PX4, Mechatronics, Embedded C. The project was a year long.
+      <p>I worked at the ivaLab with Dr. Particio A Vela, in developing safe visual navigation algortihms for aerial robots. I learned skills including ROS1, Factor Graphs, Scene Reconstruction, Vision Pose Estimation. The project was a semester long.
     </p>
     </div>
   </div>
 
   <div class="history-block right">
-    <div class="year">1980</div>
+    <div class="year">Fall 2023 - Spring 2024</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="IBM Icon"></div>
-      <p>After Apple, other companies like IBM started creating personal computers and others followed shortly after, searching for new ways to introduce devices into people's everyday lives.</p>
+      <p>I worked at the Helicopter and VTOL Laboratory with Dr. Abhishek, in software and hardware components of a UAV autonomous landing pipline. I learned skills including OpenCV, PX4, Mechatronics, Embedded C. The project was a year long.</p>
     </div>
   </div>
 
   <div class="history-block left">
-    <div class="year">1990</div>
+    <div class="year">Summer 2023</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/carleton_full.png" alt="Internet Icon"></div>
-      <p>The technological advancements made in the 90's were revolutionary. It gave birth to the World Wide Web, better known today as the Internet. Today, billions of dollars are made through this platform.</p>
+      <p>I worked at the Advanced Optimization and Robotics Lab with Dr. Chao Shen, in implementing bencmark localization algorithms on ground robots. I developed a low-cost algorithm that integrates semantic information in the environment to fuse with benchmark lidar-based localization algorithms that works quite well. I learned skills including ROS1, Gazebo 9, Hardware Programming, ros-nav stack, AMCL, ICP, Lidar-SLAM, Loop Closure, evo. The project continued to be year long.</p>
     </div>
   </div>
 
   <div class="history-block right">
-    <div class="year">2000</div>
+    <div class="year">Spring 2023</div>
+    <div class="content">
+      <div class="icon"><img src="icons/innovation.png" alt="Innovation Icon"></div>
+      <p>This decade was filled with innovations, creations, and revelations beyond many people's wildest dreams.</p>
+    </div>
+  </div>
+
+  <div class="history-block left">
+    <div class="year">Fall 2022</div>
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="Security Icon"></div>
       <p>Before this decade, a cell phone was just a phone. Many previously used devices adopted new purposes. With more people using tech to better their lives, internet security became a serious issue.</p>
     </div>
   </div>
 
-  <div class="history-block left">
-    <div class="year">2010</div>
-    <div class="content">
-      <div class="icon"><img src="icons/innovation.png" alt="Innovation Icon"></div>
-      <p>This decade was filled with innovations, creations, and revelations beyond many people's wildest dreams.</p>
-    </div>
-  </div>
+  
 </div>
