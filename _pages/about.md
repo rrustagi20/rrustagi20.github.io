@@ -58,6 +58,7 @@ When I'm not working, I am either playing guitar trying to make a cover or going
     <div class="content">
       <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="Apple Icon"></div>
       <p>Advisor: [Prof. Abhishek](https://home.iitk.ac.in/~abhish/). 
+      
 
     I worked on UAV landing in domain of autonomous controls and vision guided navigation. I served as project associate to conduct my research in the Helicopter and VTOL Laboratory at IIT Kanpur (Spring 2024 - Summer 2024). I have worked with [PX4](https://docs.px4.io/main/en/) autopilot system and learned about RTOS alongside embedded level programming. I integrated software systems with ROS and understood communication protocols over distances. I am deplopyed algorithms on NVIDIA Jetson TX2 to implement Machine Learning models for state estimation and run constrained optimisation generating trajectory on aerial systems real-time.
 
