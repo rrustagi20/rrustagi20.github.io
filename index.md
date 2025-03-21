@@ -9,7 +9,7 @@ I am a Masters Student at the <a href="https://ece.gatech.edu/">School of Electr
 
 I received my B.Tech in <a href="https://www.iitk.ac.in/aero/?view=featured"> Aerospace Engineering from IIT Kanpur</a> with my capstone project advised by <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a>. I have minors in Machine Learning, Computer Systems and English Literature. I've done research internships at Helicopter and VTOL Lab (2024), Carleton University (2023), WSN Lab (2022).
 
-**Seeking Summer 2025 opportunities**: I am currently looking for paid internship opportunities in areas related to Software/ Robotics/ Computer Vision/ Sensor Fusion in the U.S. If my portfolio (<a href="{{ site.url }}/assets/RahulCV.pdf">CV</a>) seems applicable for the job you are recruiting, please reach me out on [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)  
+**Seeking Summer 2025 opportunities**: I am currently looking for paid internship opportunities in areas related to Software/ Robotics/ Computer Vision/ Sensor Fusion in the U.S. If my portfolio (<a href="{{ site.url }}/assets/Rahul_CV.pdf">CV</a>) seems applicable for the job you are recruiting, please reach me out on [rustagirahul24@gmail.com](mailto:rustagirahul24@gmail.com)  
 
 <!-- My name is Rahul Rustagi, and I am an incoming Masters student at Georgia Institute of Technology in ECE starting Fall 2024. I received my undergraduate degree at [IIT Kanpur](http://iitk.ac.in) in Aerosapce Engineering with Minors in Computer Systems, Machine Learning and English Literature. 
 
