@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: experience
 title:
 permalink: /rail/
+nav_exclude: true
 order: 6
 ---
 # Working at RAIL

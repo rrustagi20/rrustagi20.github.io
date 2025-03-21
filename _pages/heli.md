@@ -2,9 +2,10 @@
 layout: experience
 title: 
 permalink: /experience/heli/
+nav_exclude: true
 order: 5
 ---
-# Working at HeliLab
+<!-- # Working at HeliLab -->
 
 This by far has been the most enriching experience since the people I worked with here taught me everything I build upon today. Special thanks to **babaji** and **chiruji** who had the patience to explain me all about embedded systems and autopilot stack. 
 

@@ -38,3 +38,9 @@ excerpt_separator: "<!--more-->"
 #   experiences:
 #     output: true
 #     permalink: /experience/:path/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      nav_exclude: true  # Default all pages to hidden
