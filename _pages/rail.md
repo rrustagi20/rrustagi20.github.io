@@ -1,5 +1,5 @@
 ---
-layout: experience
+layout: page
 title:
 permalink: /experience/rail/
 order: 6
