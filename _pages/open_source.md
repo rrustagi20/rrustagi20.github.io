@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Projects
+title:  
 permalink: /other_projects/
 order: 4
 ---

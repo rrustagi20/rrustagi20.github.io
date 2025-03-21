@@ -8,11 +8,13 @@ I find modern computer vision algorithms quite fascinating. I also like to deplo
 
 My research draws from Robotics and Machine Learning, with the following themes:
 
- **Safe-Visual Navigation Methods**: I have worked in 2D SLAM and implemented on ground robots in real-time. I am particulary interested in attending to gps-denied scenarios where onboard sensors and novel algorithms help provide best pose-estimate of the robot to effeciently navigate the environment. However, since it is still an estimate, I like to enforce "safety" using contol inputs from an "allowed" set as satisfied by barrier functions / constraints.
+**3D Scene Understading**: Inspired by the SPARK Lab at MIT, I am fascinated to work in robot perception for scene understanding and reasoning object association over time. I have worked in Long-Term object tracking in an houshold environment in collaboration with **Amazon Lab126** to track and search multiple objects by leveraging contextual information to mitigate poor clasification / segmentation and object localisation issues when deployed in real-time!
 
-   **Optimal Control**: Optimal control theory helps derive optimal trajectory set of control inputs for my agent to take in time t1 to t2 (time-constrained) to reach final goal. I like to use this theory for generating constrained control inputs that best satisfy task requirements.
+ **Reliable Risk-Aware Predicition in Navigation**: Inspired by Davide Scaramuzza from RPG group and Sebastian Scherer from AirLab, I am to leverage rich information from vision data and combine with navigation schemes for a reliable and safe planning so that industries can use it blindly in day2day life. In this regard, I worked in 2D SLAM and implemented on ground and aerial robots. However, since vision-based methods also can be fooled by symmetries in environment/ motion blur/ and high frequency demand, I like to enforce "safety" using risk-aware / degeneracy prediction methods including observability analysis to define a control input from an "allowed" set as satisfied by the constraints.
 
-   **Reinforcement Learning**: For Online decision making to take actions tailored to a particular task-coded reward function. I like to research in particular reward functions that can gaurantee agent-actions in a "safe" set as determined by the environment.
+  <!-- **Optimal Control**: Optimal control theory helps derive optimal trajectory set of control inputs for my agent to take in time t1 to t2 (time-constrained) to reach final goal. I like to use this theory for generating constrained control inputs that best satisfy task requirements. -->
+
+  **Deep Reinforcement Learning X Control**: Inspired by the world and DeepSeek team, I am generally happy to use reinforcement learning and analysing sim2real possibilities. I use it for decision making to take actions according to a particular task-coded reward function. I like to research in such particular reward functions that can gaurantee agent-actions in a "safe" set as determined by the environment. The resemblance of RL reward function generation with control laws fascinates me and its ability to be generalizable over dynamics makes it cool!
 
 [Google Scholar](https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en)
 

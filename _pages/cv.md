@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CV
-permalink: /assets/RahulCV.pdf
+permalink: /assets/Rahul_CV.pdf
 order: 2
 ---
 
-[CV]({{ site.url }}/assets/RahulCV.pdf)
+[CV]({{ site.url }}/assets/Rahul_CV.pdf)

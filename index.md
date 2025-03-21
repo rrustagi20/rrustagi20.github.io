@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/rahul_can1.jpg">
 
-I am a Masters Student at the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering at Georgia Tech</a>. I work at the intersection of Perception in Robotics and Machine Learning. I like to use Computer Vision techniques in Robotics for building  intelligent robotic systems.
+I am a Masters Student at the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering at Georgia Tech</a>. I work at the intersection of Perception in Robotics and Machine Learning. I like to develop algorithms based on differential geometry and leverage them for building  intelligent robotic systems. I am advised by <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a> at the <a href="https://rail-website.vercel.app/">RAIL Lab.</a>
 
 I received my B.Tech in <a href="https://www.iitk.ac.in/aero/?view=featured"> Aerospace Engineering from IIT Kanpur</a> with my capstone project advised by <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a>. I have minors in Machine Learning, Computer Systems and English Literature. I've done research internships at Helicopter and VTOL Lab (2024), Carleton University (2023), WSN Lab (2022).
 
@@ -24,7 +24,7 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 
 <!-- {% raw %} -->
 <p align="center">
-  <a href="assets/RahulCV.pdf">CV</a> /
+  <a href="assets/Rahul_CV.pdf">CV</a> /
   <a href="research">Publications</a> /
   <a href="https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en">Google Scholar</a> /
   <a href="about">Bio</a> /
@@ -43,15 +43,15 @@ My research interests broadly include **Embedded Programming, Cyber-Physical Sys
 <table>
 <col width="100px">
 <col width="650px">
-  <tr><td><b>Jan 2025:</b></td><td>Graduate Teaching Assistant in Spring 2025 for the course CS3630: Introduction to Robotics and Perception under <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></td></tr>
-  <tr><td><b>Aug 2024:</b></td><td>Working at the <a href="https://github.com/ivalab">ivaLAB</a> with <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Dr. Patricio A Vela</a> to develop reliable fail-proof navigation methods in robotics</td></tr>
+  <tr><td><b>Jan 2025 :</b></td><td>Graduate Teaching Assistant in Spring 2025 for the course CS3630: Introduction to Robotics and Perception under <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></td></tr>
+  <!-- <tr><td><b>Aug 2024:</b></td><td>Working at the <a href="https://github.com/ivalab">IVALab</a> with <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Dr. Patricio A Vela</a> to develop reliable fail-proof navigation methods in robotics</td></tr> -->
   <tr><td><b>Aug 2024:</b></td><td>Our paper on "Vision-Guided autonomous UAV landing on moving ship" got accepted in 2025 AIAA SciTech Conference to be held in Orlando, Florida</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Starting Masters in ECE at Georgia Tech in ECE</td></tr>
   <!-- <tr><td><b>July 2024:</b></td><td>Graduated from IIT Kanpur :)</td></tr> -->
   <tr><td><b>Apr 2024 :</b></td><td>Successfully defended my BTech thesis in Safe Landing of VTOLs on Unstable Platform</td></tr>
   <tr><td><b>Feb 2024 :</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10445698">paper</a> on extending previous work to mobile IoT networks with a multi-objective data offloading and charging function got accepted to IEEE Transactions on Circuits and Systems II: Express Briefs</td></tr>
-  <tr><td><b>Nov 2023 :</b></td><td>Joined the <a href="https://home.iitk.ac.in/~abhish/">Helicopter and VTOL Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a></td></tr>
+  <!-- <tr><td><b>Nov 2023 :</b></td><td>Joined the <a href="https://home.iitk.ac.in/~abhish/">Helicopter and VTOL Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a></td></tr> -->
   <tr><td><b>Aug 2023 :</b></td><td>our <a href="https://ieeexplore.ieee.org/abstract/document/10152078/">paper</a> on employing novel deep reinforcement learning algorithms for time-effecient energy transmitting scheduling in low-powered IoT networks got accepted at the 2022 IEEE World Forum on Internet of Things (WF-IoT)</td></tr>
-  <tr><td><b>May 2022 :</b></td><td>Joined the <a href="https://wsn.rajeshmhegde.com/?_gl=1%2A8nphkr%2A_ga%2AMTA4Njk0MDEwMS4xNzM1NjkwNjU0%2A_ga_Y7Z926VDE6%2AMTczNTY5MDY1NC4xLjAuMTczNTY5MDY1NC4wLjAuMA..">WSN and IoT Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr>
+  <!-- <tr><td><b>May 2022 :</b></td><td>Joined the <a href="https://wsn.rajeshmhegde.com/?_gl=1%2A8nphkr%2A_ga%2AMTA4Njk0MDEwMS4xNzM1NjkwNjU0%2A_ga_Y7Z926VDE6%2AMTczNTY5MDY1NC4xLjAuMTczNTY5MDY1NC4wLjAuMA..">WSN and IoT Laboratory</a> at IIT Kanpur to work under guidance of <a href="https://rajeshmhegde.com/">Dr. Rajesh Hegde</a></td></tr> -->
 </table>
 </div>
