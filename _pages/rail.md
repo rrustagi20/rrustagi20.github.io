@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /experience/rail/
+permalink: /rail/
 order: 6
 ---
 # Working at RAIL
