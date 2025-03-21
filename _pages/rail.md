@@ -5,7 +5,8 @@ permalink: /experience/rail/
 nav_exclude: true
 order: 6
 ---
-## Working at RAIL
+
+<!-- Working at RAIL -->
 
 I am working with wonderful people at the RAIL lab at GaTech to work on a project of robotics. So I generally work in low-level stuff, optimization and mathematics. This project has introduced me to higher level robotics applications like object search, and household rearrangement. It has been fulfilling to work in an area of Human-Robot Interaction. I haven't had the chance to work in such areas back in India at IIT Kanpur.
 
