@@ -1,6 +1,6 @@
 ---
 layout: experience
-# title: RAIL Experience
+title:
 permalink: /experience/rail/
 order: 6
 ---
