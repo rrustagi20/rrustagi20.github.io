@@ -1,123 +1,249 @@
 ---
 layout: page
-title:  My Story
+title: About Me
 permalink: /about/
 order: 1
 ---
 
-<!-- <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/gt.png"> -->
-
-# About me?
-
-I am currently pursuing a masters at GT since Fall of 2024. I take interest in areas such as Robotics, Computer Vision and AI. I am also serving as a teaching assistant for the course CS3630: Introduction to Perception and Robotics and work at <a href="https://rail-website.vercel.app/">**RAIL Lab**</a> led by Dr. Sonia Chernova.
-
-Some hobbies I picked up during my undergrad were; playing guitar, do stargazing, solve rubiks puzzles! I have participated in WCA competitions for fun. Check out the blog section for it!
-
-# My Learning Ladder
-
-Below is a culmination of the learnings I had so far. Please click on any of the tiles below to learn more about it! It is majorly non-technical and commenting about my personal growth at the place. 
-
-<!-- Add this to your Markdown file or layout -->
-<div class="timeline-container">
-  <!-- Each timeline entry -->
-  <a href="{{ '/experience/rail/' | relative_url }}" class="timeline-item">
-  <!-- <div class="timeline-item"> -->
-      <!-- Each timeline entry -->
-        <div class="timeline-img">
-          <img src="/assets/rail3.png" alt="RAIL">
-        </div>
-        <div class="timeline-content">
-          <h3>RAIL</h3>
-          <p>Robot Autonomy and Interactive Learning<br>
-          Graduate Researcher @ GaTech</p>
-        </div>
-      <!-- </div> -->
-    </a>
-    <!-- Each timeline entry -->
-    <a href="{{ '/experience/ivalab/' | relative_url }}" class="timeline-item">
-      <!-- <div class="timeline-item"> -->
-        <div class="timeline-img">
-          <img src="/assets/ivalab.png" alt="RADALAB">
-        </div>
-        <div class="timeline-content">
-          <h3>IVALab</h3>
-          <p>Intelligent Vision and Automation Laboratory<br>
-          Research Assistant @ GaTech</p>
-        </div>
-      <!-- </div> -->
-    </a>
-    <!--  Each timeline entry -->
-    <a href="/experience/heli" class="timeline-item">
-      <!-- <div class="timeline-item"> -->
-        <div class="timeline-img">
-          <img src="/assets/heli_iitk2.png" alt="RADALAB">
-        </div>
-        <div class="timeline-content">
-          <h3>HeliLab</h3>
-          <p>Helicopter and VTOL Laboratory<br>
-          Research Assistant @ IIT Kanpur</p>
-        </div>
-      <!-- </div> -->
-    </a>
-    <!-- Each timeline entry -->
-    <a href="/experience/ivalab" class="timeline-item">
-      <!-- <div class="timeline-item"> -->
-        <div class="timeline-img">
-          <img src="/assets/carleton.jpg" alt="RADALAB">
-        </div>
-        <div class="timeline-content">
-          <h3>AROCL</h3>
-          <p>Advanced Robotics Optimization and Control Laboratory<br>
-          Visiting Researcher @ Carleton University</p>
-        <!-- </div> -->
-        </div>
-    </a>
-  <!-- Add more items following same pattern -->
-
+<div class="about-hero fade-in">
+  <div class="about-photo">
+    <img src="/assets/rahul_can1.jpg" alt="Rahul Rustagi" class="profile-photo">
+  </div>
+  <div class="about-intro">
+    <h2>Hello, I'm Rahul!</h2>
+    <p class="intro-text">I'm a Masters student at Georgia Tech passionate about the intersection of Robotics, Computer Vision, and Machine Learning. When I'm not diving deep into algorithms and robotic systems, you'll find me exploring the world through various hobbies and interests.</p>
+  </div>
 </div>
 
-<!-- <div class="history-section">
-
-  <div class="history-block left">
-    <a href="/experience-at-company-x">
-    <div class="year">Fall 2024</div>
-    <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/gt_full.png" alt="Apple Icon"></div>
-      <p>I worked at the ivaLab with Dr. Particio A Vela, in developing safe visual navigation algortihms for aerial robots. I learned skills including ROS1, Factor Graphs, Scene Reconstruction, Vision Pose Estimation. The project was a semester long.
-    </p>
+<div class="interests-section fade-in">
+  <h2><i class="fas fa-heart"></i> My Hobbies</h2>
+  
+  <div class="interests-content">
+    <p> I'm someone who believes in living life to the fullest. I like teaching me something new about the world and myself.</p>
+    
+    <div class="interests-grid">
+      <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-guitar"></i>
+        </div>
+        <h3>Music & Guitar</h3>
+        <p>I love playing guitar and exploring different musical genres. Music is my way of unwinding and expressing creativity beyond the technical world.</p>
+      </div>
+      
+      <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-star"></i>
+        </div>
+        <h3>Stargazing</h3>
+        <p>There's something magical about looking up at the night sky. Stargazing reminds me of the vastness of the universe and fuels my curiosity about exploration.</p>
+      </div>
+      
+      <!-- <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-cube"></i>
+        </div>
+        <h3>Rubik's Cubes</h3>
+        <p>I enjoy solving Rubik's puzzles and have even participated in WCA competitions. It's a fun way to challenge my problem-solving skills in a different domain.</p>
+      </div>
+      
+      <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-camera"></i>
+        </div>
+        <h3>Photography</h3>
+        <p>Capturing moments and exploring the world through a lens. Photography helps me see beauty in everyday life and document my adventures.</p>
+      </div> -->
+      
+      <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-hiking"></i>
+        </div>
+        <h3>Adventure</h3>
+        <p>Whether it's hiking, exploring new places, or trying new experiences, I love stepping out of my comfort zone and discovering what the world has to offer.</p>
+      </div>
+      
+      <!-- <div class="interest-card">
+        <div class="interest-icon">
+          <i class="fas fa-book"></i>
+        </div>
+        <h3>Learning</h3>
+        <p>I'm naturally curious and love learning about diverse topics - from literature (I have a minor in English Literature) to new technologies and cultures.</p>
+      </div> -->
     </div>
-    </a>
   </div>
+</div>
 
-  <div class="history-block right">
-    <div class="year">Fall 2023 - Spring 2024</div>
-    <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="IBM Icon"></div>
-      <p>I worked at the Helicopter and VTOL Laboratory with Dr. Abhishek, in software and hardware components of a UAV autonomous landing pipline. I learned skills including OpenCV, PX4, Mechatronics, Embedded C. The project was a year long.</p>
+<div class="gallery-section fade-in">
+  <h2><i class="fas fa-images"></i> Life in Pictures</h2>
+  <p class="gallery-intro">A random collection of moments from my life - adventures, experiences, and memories that shape who I am.</p>
+  
+  <div class="photo-gallery">
+    <div class="photo-grid">
+      <div class="photo-item">
+        <img src="/assets/about_pics/1.jpeg" alt="Life moment 1">
+        <div class="photo-overlay">
+          <p>Castle Island, Boston</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/2.jpeg" alt="Life moment 2">
+        <div class="photo-overlay">
+          <p>Symbotic Interns, Cambridge</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/3.jpeg" alt="Life moment 3">
+        <div class="photo-overlay">
+          <p>Amicola Falls, GA</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/4.jpeg" alt="Life moment 4">
+        <div class="photo-overlay">
+          <p>Bluehole Falls, GA</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/5.jpeg" alt="Life moment 5">
+        <div class="photo-overlay">
+          <p>Deerlick Astronomy Village, GA</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/6.jpeg" alt="Life moment 6">
+        <div class="photo-overlay">
+          <p>with ba13, Pune</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/7.jpeg" alt="Life moment 7">
+        <div class="photo-overlay">
+          <p>Montmorency Falls, Quebec City</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/8.jpeg" alt="Life moment 8">
+        <div class="photo-overlay">
+          <p>Quecbec City</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/9.jpeg" alt="Life moment 9">
+        <div class="photo-overlay">
+          <p>Back home, Pune</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/11.jpg" alt="Life moment 11">
+        <div class="photo-overlay">
+          <p>Rohtang La, Manali, India</p>
+        </div>
+      </div>
+      <div class="photo-item">
+        <img src="/assets/about_pics/12.jpg" alt="Life moment 12">
+        <div class="photo-overlay">
+          <p>with my bro pullu (i'm on the left)</p>
+        </div>
+      </div>
     </div>
   </div>
+</div>
 
-  <div class="history-block left">
-    <div class="year">Summer 2023</div>
-    <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/carleton_full.png" alt="Internet Icon"></div>
-      <p>I worked at the Advanced Optimization and Robotics Lab with Dr. Chao Shen, in implementing bencmark localization algorithms on ground robots. I developed a low-cost algorithm that integrates semantic information in the environment with benchmark lidar-based localization algorithms and works quite well! I learned skills including ROS1, Gazebo 9, Hardware Programming, ros-nav stack, AMCL, ICP, Lidar-SLAM, Loop Closure, evo. The project continued to be year long.</p>
+<div class="fun-facts fade-in">
+  <h2><i class="fas fa-lightbulb"></i> Its all numbers</h2>
+  <div class="facts-grid">
+    <div class="fact-item">
+      <span class="fact-number">3</span>
+      <span class="fact-text">Minors completed during undergrad</span>
     </div>
+    <!-- <div class="fact-item">
+      <span class="fact-number">4</span>
+      <span class="fact-text">Different research labs experienced</span>
+    </div> -->
+    <div class="fact-item">
+      <span class="fact-number" id="visit-counter">0</span>
+      <span class="fact-text">Website visits</span>
+    </div>
+    <div class="fact-item">
+      <span class="fact-number">∞</span>
+      <span class="fact-text">Curiosity for learning new things</span>
+    </div>
+    <div class="fact-item">
+      <span class="fact-number">22</span>
+      <span class="fact-text">Fastest 3x3 Rubiks solve in secs</span>
+    </div>
+    <div class="fact-item">
+      <span class="fact-number">3</span>
+      <span class="fact-text">Number of languages I speak</span>
+    </div>
+    <div class="fact-item">
+      <span class="fact-number">3</span>
+      <span class="fact-text">Number of countries I've visited</span>
+    </div>
+    <!-- <div class="fact-item">
+      <span class="fact-number">0</span>
+      <span class="fact-text">Number of girlfriends I've had</span>
+    </div> -->
   </div>
+</div>
 
-  <div class="history-block right">
-    <div class="year">Spring 2023</div>
-    <div class="content">
-      <div class="icon"><img src="icons/innovation.png" alt="Innovation Icon"></div>
-      <p>This decade was filled with innovations, creations, and revelations beyond many people's wildest dreams.</p>
-    </div>
-  </div>
+<script>
+// Add fade-in animation on scroll
+const observerOptions = {
+  threshold: 0.1,
+  rootMargin: '0px 0px -50px 0px'
+};
 
-  <div class="history-block left">
-    <div class="year">Fall 2022</div>
-    <div class="content">
-      <div class="icon"><img src="{{ site.url }}/assets/iitk_full.png" alt="Security Icon"></div>
-      <p>Before this decade, a cell phone was just a phone. Many previously used devices adopted new purposes. With more people using tech to better their lives, internet security became a serious issue.</p>
-    </div>
-  </div>-->
-<!-- </div> -->
+const observer = new IntersectionObserver(function(entries) {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('fade-in');
+    }
+  });
+}, observerOptions);
+
+// Website visit counter
+function updateVisitCounter() {
+  // Get current visit count from localStorage
+  let visitCount = localStorage.getItem('websiteVisits');
+  
+  // If no previous visits, initialize to 0
+  if (!visitCount) {
+    visitCount = 0;
+  }
+  
+  // Increment visit count
+  visitCount = parseInt(visitCount) + 1;
+  
+  // Store updated count
+  localStorage.setItem('websiteVisits', visitCount);
+  
+  // Update display with animation
+  const counterElement = document.getElementById('visit-counter');
+  if (counterElement) {
+    // Animate the counter
+    let currentCount = 0;
+    const increment = visitCount / 50; // Animate over 50 steps
+    const timer = setInterval(function() {
+      currentCount += increment;
+      if (currentCount >= visitCount) {
+        counterElement.textContent = visitCount.toLocaleString();
+        clearInterval(timer);
+      } else {
+        counterElement.textContent = Math.floor(currentCount).toLocaleString();
+      }
+    }, 20); // Update every 20ms
+  }
+}
+
+// Observe all sections and initialize visit counter
+document.addEventListener('DOMContentLoaded', function() {
+  const sections = document.querySelectorAll('.about-hero, .interests-section, .gallery-section, .fun-facts');
+  sections.forEach(section => {
+    observer.observe(section);
+  });
+  
+  // Update visit counter
+  updateVisitCounter();
+});
+</script>

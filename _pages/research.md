@@ -1,50 +1,81 @@
 ---
 layout: page
-title: Research
+title: Research Statement
 permalink: /research/
 order: 3
 ---
-I find modern computer vision algorithms quite fascinating. I also like to deploy algorithms in robotics due to its growing applications in the society and so I work in the intersection of computer vision and robotics. I have spent some excellent summers previosly with professors in autonomy and robot perception. I aspire to contribute to research in algorithms that are **trustworthy** and addresses dependability and **reliability** in AI-driven robotics. Overall, I like to study and use different mathematical tools in complex end-to-end pipelines to gaurantee failure-resistant operation
 
-My research draws from Robotics and Machine Learning, with the following themes:
+<div class="research-intro fade-in">
+  <p class="lead">I develop <strong>trustworthy</strong> and <strong>reliable</strong> AI algorithms for robotics applications, focusing on the intersection of computer vision, machine learning, and autonomous systems. My work aims to create failure-resistant robotic systems that can operate safely in real-world environments.</p>
+</div>
 
-**3D Scene Understading**: Inspired by the SPARK Lab at MIT, I am fascinated to work in robot perception for scene understanding and reasoning object association over time. I have worked in Long-Term object tracking in an houshold environment in collaboration with **Amazon Lab126** to track and search multiple objects by leveraging contextual information to mitigate poor clasification / segmentation and object localisation issues when deployed in real-time!
+<div class="research-themes">
+  <h2>Research Themes</h2>
+  
+  <div class="theme-item fade-in">
+    <div class="theme-visual">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="3D Scene Understanding" />
+    </div>
+    <div class="theme-content">
+      <h3><i class="fas fa-cube"></i> 3D Scene Understanding</h3>
+      <p>Developing robust object tracking and scene reasoning algorithms for long-term autonomy. I work on contextual object association and tracking in household environments, addressing challenges in real-time classification, segmentation, and localization. <em>Collaboration with Amazon Lab126.</em></p>
+      <div class="theme-keywords">
+        <span class="keyword">Object Tracking</span>
+        <span class="keyword">Scene Reasoning</span>
+        <span class="keyword">Real-time Perception</span>
+      </div>
+    </div>
+  </div>
 
- **Reliable Risk-Aware Predicition in Navigation**: Inspired by Davide Scaramuzza from RPG group and Sebastian Scherer from AirLab, I am to leverage rich information from vision data and combine with navigation schemes for a reliable and safe planning so that industries can use it blindly in day2day life. In this regard, I worked in 2D SLAM and implemented on ground and aerial robots. However, since vision-based methods also can be fooled by symmetries in environment/ motion blur/ and high frequency demand, I like to enforce "safety" using risk-aware / degeneracy prediction methods including observability analysis to define a control input from an "allowed" set as satisfied by the constraints.
+  <div class="theme-item fade-in">
+    <div class="theme-visual">
+      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Risk-Aware Navigation" />
+    </div>
+    <div class="theme-content">
+      <h3><i class="fas fa-route"></i> Risk-Aware Navigation</h3>
+      <p>Creating safe and reliable navigation systems that leverage rich visual information for autonomous planning. I focus on handling environmental symmetries, motion blur, and high-frequency demands through observability analysis and constraint-based control methods for ground and aerial robots.</p>
+      <div class="theme-keywords">
+        <span class="keyword">SLAM</span>
+        <span class="keyword">Safety Constraints</span>
+        <span class="keyword">Observability Analysis</span>
+      </div>
+    </div>
+  </div>
 
-  <!-- **Optimal Control**: Optimal control theory helps derive optimal trajectory set of control inputs for my agent to take in time t1 to t2 (time-constrained) to reach final goal. I like to use this theory for generating constrained control inputs that best satisfy task requirements. -->
+  <div class="theme-item fade-in">
+    <div class="theme-visual">
+      <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" alt="Deep RL Control" />
+    </div>
+    <div class="theme-content">
+      <h3><i class="fas fa-brain"></i> Deep Reinforcement Learning × Control</h3>
+      <p>Bridging the gap between reinforcement learning and control theory to develop generalizable decision-making systems. I design reward functions that guarantee safe agent actions while exploring sim-to-real transfer capabilities for robust real-world deployment.</p>
+      <div class="theme-keywords">
+        <span class="keyword">Safe RL</span>
+        <span class="keyword">Sim-to-Real</span>
+        <span class="keyword">Control Theory</span>
+      </div>
+    </div>
+  </div>
+</div>
 
-  **Deep Reinforcement Learning X Control**: Inspired by the world and DeepSeek team, I am generally happy to use reinforcement learning and analysing sim2real possibilities. I use it for decision making to take actions according to a particular task-coded reward function. I like to research in such particular reward functions that can gaurantee agent-actions in a "safe" set as determined by the environment. The resemblance of RL reward function generation with control laws fascinates me and its ability to be generalizable over dynamics makes it cool!
-
-[Google Scholar](https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en)
-
-<!-- ### Selected Papers
-
-* C. Prachand, R. Rustagi, R. Shankar, J. Singh, A. Abhishek, K.S. Venkatesh, "Vision-Based Autonomous Ship Deck
-landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA SciTech Forum.    
-*(Accepted)*
-
-* A. Singh, R. Rustagi and R. M. Hegde, "Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning," in IEEE Transactions on Circuits and Systems II: Express Briefs, doi: 10.1109/TCSII.2024.3370686.  
-[Paper Link](https://ieeexplore.ieee.org/abstract/document/10445698)
-
-* A. Singh, R. Rustagi, S. Redhu and R. M. Hegde, "Mobile Energy Transmitter Scheduling in Energy Harvesting IoT Networks using Deep Reinforcement Learning," 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), Yokohama, Japan, 2022, pp. 1-6, doi: 10.1109/WF-IoT54382.2022.10152078.  
-[Paper Link](https://ieeexplore.ieee.org/abstract/document/10152078) -->
+<div class="scholar-link fade-in">
+  <a href="https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en" class="scholar-button">
+    <i class="fas fa-graduation-cap"></i> View Publications on Google Scholar
+  </a>
+</div>
 
 ### Publications
 
-
 <div class="publication-section">
-  <!-- <h2>Publications</h2> -->
-
   <div class="publication-item">
     <div class="publication-img">
-      <img src="{{ site.url }}/assets/vision.png" alt="EgoMimic">
+      <img src="{{ site.url }}/assets/vision.png" alt="UAV Landing">
     </div>
     <div class="publication-text">
       <h3>
         <a href="https://arc.aiaa.org/doi/10.2514/6.2025-2345">Vision-Based Autonomous Ship Deck landing of an Unmanned Aerial Vehicle using Fractal ArUco markers</a>
       </h3>
-      <p>Chiranjeev Prachand, Rahul Rustagi, Ritwik Shankar, Jitendra Singh, Abhishek and K.S. Venkatesh</p>
+      <p>Chiranjeev Prachand, <strong>Rahul Rustagi</strong>, Ritwik Shankar, Jitendra Singh, Abhishek and K.S. Venkatesh</p>
       <p><strong>AIAA SciTech Forum 2025</strong></p>
       <p>Autonomous landing of quadrotor on a moving ship-like platform solely using Vision and Deep Learning methods</p>
     </div>
@@ -52,13 +83,13 @@ landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA Sc
 
   <div class="publication-item">
     <div class="publication-img">
-      <img src="{{ site.url }}/assets/rl1.png" alt="NOD-TAMP">
+      <img src="{{ site.url }}/assets/rl1.png" alt="Mobile IoT Networks">
     </div>
     <div class="publication-text">
       <h3>
         <a href="https://ieeexplore.ieee.org/abstract/document/10445698">Lifetime Improvement in Rechargeable Mobile IoT Networks Using Deep Reinforcement Learning</a>
       </h3>
-      <p>Aditya Singh, Rahul Rustagi, Rajesh M. Hegde</p>
+      <p>Aditya Singh, <strong>Rahul Rustagi</strong>, Rajesh M. Hegde</p>
       <p><strong>IEEE Transactions on Circuits and Systems II: Express Briefs</strong></p>
       <p>Generalising previous MET work to work on Mobile-IoT Networks for scalability</p>
     </div>
@@ -66,25 +97,26 @@ landing of an Unmanned Aerial Vehicle using Fractal ArUco markers", 2025 AIAA Sc
 
   <div class="publication-item">
     <div class="publication-img">
-      <img src="{{ site.url }}/assets/rl2.png" alt="NOD-TAMP">
+      <img src="{{ site.url }}/assets/rl2.png" alt="Energy Harvesting IoT">
     </div>
     <div class="publication-text">
       <h3>
         <a href="https://ieeexplore.ieee.org/abstract/document/10152078">Mobile Energy Transmitter Scheduling in Energy Harvesting IoT Networks using Deep Reinforcement Learning</a>
       </h3>
-      <p>Aditya Singh, Rahul Rustagi, Surender Redhu, Rajesh M. Hegde</p>
+      <p>Aditya Singh, <strong>Rahul Rustagi</strong>, Surender Redhu, Rajesh M. Hegde</p>
       <p><strong>IEEE WF-IoT 2022</strong></p>
-      <p>Maximizing longevity of static-IoT networks using Deep RL algorithms </p>
+      <p>Maximizing longevity of static-IoT networks using Deep RL algorithms</p>
     </div>
   </div>
-
 </div>
-
-
 
 ## Undergraduate Thesis
 
-[BTech Project - Autonomous Landing of an Unmanned Aerial Vehicle on an Oscillating Platform]({{ site.url }}/assets/rustagi_rahul_ugp.pdf)  
-*(under guidance of [Prof. Abhishek](https://home.iitk.ac.in/~abhish/))*  
-IIT Kanpur *(2023-2024)*  
-Published in AIAA SciTech 2025
+<div class="thesis-section">
+  <div class="thesis-item">
+    <h3><a href="{{ site.url }}/assets/rustagi_rahul_ugp.pdf">Autonomous Landing of an Unmanned Aerial Vehicle on an Oscillating Platform</a></h3>
+    <p><em>Under guidance of <a href="https://home.iitk.ac.in/~abhish/">Prof. Abhishek</a></em></p>
+    <p><strong>IIT Kanpur</strong> (2023-2024)</p>
+    <p class="thesis-note">Published in AIAA SciTech 2025</p>
+  </div>
+</div>

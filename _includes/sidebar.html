@@ -1,0 +1,30 @@
+<aside class="sidebar">
+  <div class="sidebar-header">
+  </div>
+
+  <nav class="sidebar-nav">
+    <div class="nav-list">
+      <a class="nav-link" href="{{ site.baseurl }}/">
+        <i class="fas fa-home"></i>
+        Home
+      </a>
+      {% assign sorted_pages = site.pages | sort:"order" %}
+      {% for my_page in sorted_pages %}
+        {% if my_page.title %}
+        <a class="nav-link" href="{{ my_page.url | prepend: site.baseurl }}">
+          {% if my_page.title == "About Me" %}
+            <i class="fas fa-user"></i>
+          {% elsif my_page.title == "Research" %}
+            <i class="fas fa-graduation-cap"></i>
+          {% elsif my_page.title == "Curriculum Vitae" %}
+            <i class="fas fa-file-pdf"></i>
+          {% else %}
+            <i class="fas fa-link"></i>
+          {% endif %}
+          {{ my_page.title }}
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+</aside> 

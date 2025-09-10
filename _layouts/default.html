@@ -13,16 +13,16 @@
   </head>
 
   <body>
+    <div class="site-container">
+      {% include sidebar.html %}
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      <main class="main-content">
+        <div class="content-wrapper">
+          {{ content }}
+        </div>
+        {% include footer.html %}
+      </main>
     </div>
-
-    {% include footer.html %}
     {% include analytics.html %}
     <script id="dsq-count-scr" src="//http-rrustagi20-github-io.disqus.com/count.js" async></script>
   </body>
