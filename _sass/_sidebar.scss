@@ -1195,4 +1195,339 @@
       }
     }
   }
+}
+
+// Page headers for Blog and Projects
+.blog-header, .projects-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: $primary-color;
+    margin-bottom: 1rem;
+    letter-spacing: -0.5px;
+    
+    @include media-query($on-palm) {
+      font-size: 2rem;
+    }
+  }
+  
+  .page-subtitle {
+    font-size: 1.2rem;
+    color: $text-color-light;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+}
+
+// CTA sections
+.blog-cta, .projects-cta {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 3rem 2rem;
+  background: rgba($secondary-color, 0.05);
+  border-radius: $border-radius-large;
+  
+  h2 {
+    font-size: 2rem;
+    color: $primary-color;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.1rem;
+    color: $text-color-light;
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    .cta-button {
+      @include button-style($secondary-color);
+      font-size: 1.1rem;
+      
+      &.secondary {
+        @include button-style(transparent, $secondary-color);
+        border: 2px solid $secondary-color;
+        
+        &:hover {
+          background-color: $secondary-color;
+          color: white;
+        }
+      }
+      
+      i {
+        margin-right: 0.5rem;
+      }
+    }
+  }
+}
+
+// Blog section styles
+.blog-section, .projects-section {
+  margin-bottom: 4rem;
+  
+  h2 {
+    font-size: 2rem;
+    color: $primary-color;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    
+    i {
+      color: $secondary-color;
+    }
+  }
+  
+  .section-intro {
+    font-size: 1.1rem;
+    color: $text-color-light;
+    text-align: center;
+    margin-bottom: 3rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  
+  .blog-item {
+    background: white;
+    padding: 2rem;
+    border-radius: $border-radius-large;
+    box-shadow: $box-shadow-light;
+    text-align: center;
+    transition: all $transition-medium;
+    border-top: 4px solid transparent;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: $box-shadow-heavy;
+      border-top-color: $secondary-color;
+    }
+    
+    .blog-icon {
+      margin-bottom: 1.5rem;
+      
+      i {
+        font-size: 2.5rem;
+        color: $secondary-color;
+      }
+    }
+    
+    h3 {
+      font-size: 1.4rem;
+      color: $primary-color;
+      margin-bottom: 0.5rem;
+      font-weight: 600;
+    }
+    
+    .blog-date {
+      font-size: 0.9rem;
+      color: $secondary-color;
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+    
+    p {
+      color: $text-color-light;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+    }
+    
+    .blog-link {
+      color: $secondary-color;
+      text-decoration: none;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all $transition-fast;
+      
+      &:hover {
+        color: $primary-color;
+        text-decoration: none;
+        
+        i {
+          transform: translateX(3px);
+        }
+      }
+    }
+  }
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  
+  .project-item {
+    background: white;
+    border-radius: $border-radius-large;
+    box-shadow: $box-shadow-light;
+    overflow: hidden;
+    transition: all $transition-medium;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: $box-shadow-heavy;
+    }
+    
+    .project-image {
+      background: transparent;
+      padding: 1rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      
+      .project-gif {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: $border-radius;
+        border: none;
+        box-shadow: $box-shadow-light;
+        transition: all $transition-medium;
+        
+        &:hover {
+          transform: scale(1.02);
+          box-shadow: $box-shadow-medium;
+        }
+      }
+      
+      .project-fallback-icon {
+        font-size: 3rem;
+        color: $secondary-color;
+        background: linear-gradient(135deg, $secondary-color, lighten($secondary-color, 10%));
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem auto;
+      }
+      
+      i {
+        font-size: 3rem;
+        color: $secondary-color;
+        background: linear-gradient(135deg, $secondary-color, lighten($secondary-color, 10%));
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 2rem auto;
+      }
+    }
+    
+    .project-content {
+      padding: 2rem;
+      
+      h3 {
+        font-size: 1.4rem;
+        color: $primary-color;
+        margin-bottom: 1rem;
+        font-weight: 600;
+      }
+      
+      .project-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+        
+        .tag {
+          font-size: 0.8rem;
+          background: rgba($secondary-color, 0.1);
+          color: $secondary-color;
+          padding: 0.25rem 0.75rem;
+          border-radius: 15px;
+          font-weight: 500;
+        }
+      }
+      
+      p {
+        color: $text-color-light;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+      }
+      
+      .project-links {
+        .project-link {
+          color: $secondary-color;
+          text-decoration: none;
+          font-weight: 500;
+          display: inline-flex;
+          align-items: center;
+          gap: 0.5rem;
+          transition: all $transition-fast;
+          
+          &:hover {
+            color: $primary-color;
+            text-decoration: none;
+            
+            i {
+              transform: translateX(2px);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Mobile responsiveness for blog and projects
+@include media-query($on-palm) {
+  .blog-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    
+    .blog-item {
+      padding: 1.5rem;
+    }
+  }
+  
+  .projects-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    
+    .project-item {
+      .project-image {
+        padding: 1rem;
+        
+        .project-gif {
+          height: 150px;
+        }
+        
+        .project-fallback-icon,
+        i {
+          font-size: 2rem;
+          width: 60px;
+          height: 60px;
+          margin: 1rem auto;
+        }
+      }
+      
+      .project-content {
+        padding: 1.5rem;
+      }
+    }
+  }
 } 

@@ -40,15 +40,18 @@
 
 .profile-content {
     flex: 1;
+    // flex: 0 1 500px; // Constrain width to ~400px instead of taking all remaining space
+    // max-width: 500px; // Ensure it doesn't exceed this width
     
     p {
         font-size: $large-font-size;
         line-height: 1.7;
         margin-bottom: $spacing-unit / 1.5;
-        
-        &:first-of-type {
-            font-size: $large-font-size * 1.1;
-        }
+    }
+    
+    @include media-query($on-palm) {
+        flex: 1;
+        max-width: none;
     }
 }
 

@@ -23,9 +23,9 @@ order: 2
     </div>
     <div class="cv-entry-details">
       <p><strong>Georgia Institute of Technology</strong></p>
-      <p>Focus: Robotics, Computer Vision, and Machine Learning</p>
-      <p>Advisor: <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></p>
-      <p>Research: Developing algorithms based on differential geometry for intelligent robotic systems</p>
+      <p>Focus: Perception-Based Learning in Robotics</p>
+      <!-- <p>Advisor: <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a></p> -->
+      <p>Research: Developing uncertainty-aware algorithms in 3d vision for reliablilty in downstream tasks</p>
     </div>
   </div>
 
@@ -38,7 +38,7 @@ order: 2
       <p><strong>Indian Institute of Technology Kanpur</strong></p>
       <p>Minors: Machine Learning, Computer Systems, English Literature</p>
       <p>Capstone Advisor: <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a></p>
-      <p>Thesis: Safe Landing of VTOLs on Unstable Platform</p>
+      <p>Thesis: Vision-Based Safe Autonomous Landing of VTOLs on Unstable Platform</p>
     </div>
   </div>
 </div>
@@ -166,10 +166,13 @@ order: 2
     <div class="cv-entry-details">
       <p><strong>Symbotic</strong></p>
       <ul>
-        <li>Working on advanced perception systems for warehouse automation</li>
-        <li>Developing computer vision algorithms for robotic manipulation</li>
-        <li>Contributing to autonomous material handling solutions</li>
+        <li>Built an ETL pipeline to collect 700 bot images from warehouses sites & used Amazon Ion logs to create depth ground truth</li>
+        <li>Finetuned KITTI pre-trained Monocular Depth Estimation Models using ResNet, KeyPoint Detector and DINOv2 architecture</li>
+        <li>Achieved 98.9% Accuracy and 98.1% recall of collision triggering events within 1 ft error proximity for MonoDINO-DETR</li>
       </ul>
+    </div>
+    <div class="cv-entry-logo">
+        <img src="/assets/symbotic.png" alt="Symbotic">
     </div>
   </div>
 </div>

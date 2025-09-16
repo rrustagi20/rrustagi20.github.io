@@ -9,16 +9,24 @@ layout: page
 
 <div class="profile-section fade-in">
   <div class="profile-image">
-    <img src="{{ site.url }}/assets/rahul_can1.jpg" alt="Rahul Rustagi">
+    <img src="{{ site.url }}/assets/profile_pic_1.jpg" alt="Rahul Rustagi">
   </div>
   
   <div class="profile-content">
-    <p>I am a Masters Student at the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering at Georgia Tech</a>. I work at the intersection of Perception in Robotics and Machine Learning. I like to develop algorithms based on differential geometry and leverage them for building intelligent robotic systems. I am advised by <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a> at the <a href="https://rail-website.vercel.app/">RAIL Lab.</a></p>
+    <p>I am a 2nd year Masters Student at the <a href="https://ece.gatech.edu/">School of Electrical and Computer Engineering at Georgia Tech</a>. I completed my undergrad from IIT Kanpur, India.</p>
+    
+    <p>I work in Learning-Based Perception for Robotics where I take interest in developing foundational algorithms for building intelligent robotic systems. I am currently advised by <a href="https://faculty.cc.gatech.edu/~chernova/">Dr. Sonia Chernova</a> at the <a href="https://rail-website.vercel.app/">RAIL Lab.</a></p>
 
-    <p>I received my B.Tech in <a href="https://www.iitk.ac.in/aero/?view=featured">Aerospace Engineering from IIT Kanpur</a> with my capstone project advised by <a href="https://home.iitk.ac.in/~abhish/">Dr. Abhishek</a>. I have minors in Machine Learning, Computer Systems and English Literature. I've done research internships at Helicopter and VTOL Lab (2024), Carleton University (2023), WSN Lab (2022).</p>
+  <div class="nav-links fade-in">
+    <!-- <a href="assets/Rahul_CV.pdf"><i class="fas fa-file-pdf"></i></a> -->
+    <!-- <a href="research"><i class="fas fa-graduation-cap"></i></a> -->
+    <a href="https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>
+    <!-- <a href="about"><i class="fas fa-user"></i></a> -->
+    <a href="https://www.linkedin.com/in/rrustagi7/"><i class="fab fa-linkedin"></i></a>
+    <a href="mailto:rustagirahul24@gmail.com"><i class="fas fa-envelope"></i></a>
+  </div>
   </div>
 </div>
-
 <!-- <div class="opportunity-banner fade-in">
   <h3><i class="fas fa-rocket"></i> Seeking Summer 2025 Opportunities</h3>
   <p>I am currently looking for paid internship opportunities in areas related to Software, Robotics, Computer Vision, and Sensor Fusion in the U.S.</p>
@@ -27,14 +35,6 @@ layout: page
   </a>
 </div> -->
 
-<div class="nav-links fade-in">
-  <!-- <a href="assets/Rahul_CV.pdf"><i class="fas fa-file-pdf"></i></a> -->
-  <!-- <a href="research"><i class="fas fa-graduation-cap"></i></a> -->
-  <a href="https://scholar.google.com/citations?user=5KYg7IgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>
-  <!-- <a href="about"><i class="fas fa-user"></i></a> -->
-  <a href="https://www.linkedin.com/in/rrustagi7/"><i class="fab fa-linkedin"></i></a>
-  <a href="mailto:rustagirahul24@gmail.com"><i class="fas fa-envelope"></i></a>
-</div>
 
 <div class="news-section fade-in">
   <h4>Recent News</h4>

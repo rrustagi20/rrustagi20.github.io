@@ -14,7 +14,7 @@ order: 3
   
   <div class="theme-item fade-in">
     <div class="theme-visual">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="3D Scene Understanding" />
+      <img src="/assets/project_gifs/topo1.gif" alt="3D Scene Understanding" />
     </div>
     <div class="theme-content">
       <h3><i class="fas fa-cube"></i> 3D Scene Understanding</h3>
@@ -29,7 +29,7 @@ order: 3
 
   <div class="theme-item fade-in">
     <div class="theme-visual">
-      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Risk-Aware Navigation" />
+      <img src="/assets/project_gifs/risk.gif" alt="Risk-Aware Navigation" />
     </div>
     <div class="theme-content">
       <h3><i class="fas fa-route"></i> Risk-Aware Navigation</h3>
@@ -44,10 +44,10 @@ order: 3
 
   <div class="theme-item fade-in">
     <div class="theme-visual">
-      <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" alt="Deep RL Control" />
+      <img src="/assets/project_gifs/rl.gif" alt="Deep RL Control" />
     </div>
     <div class="theme-content">
-      <h3><i class="fas fa-brain"></i> Deep Reinforcement Learning × Control</h3>
+      <h3><i class="fas fa-brain"></i> Safe Uncertainty-Aware Robot Learning </h3>
       <p>Bridging the gap between reinforcement learning and control theory to develop generalizable decision-making systems. I design reward functions that guarantee safe agent actions while exploring sim-to-real transfer capabilities for robust real-world deployment.</p>
       <div class="theme-keywords">
         <span class="keyword">Safe RL</span>
