@@ -7,7 +7,7 @@ order: 2
 
 <div class="cv-header fade-in">
   <div class="cv-download">
-    <a href="/assets/Rahul_CV.pdf" class="download-btn" target="_blank">
+    <a href="/assets/grad_cv.pdf" class="download-btn" target="_blank">
       <i class="fas fa-download"></i> Download a Copy
     </a>
   </div>
