@@ -1,4 +1,0 @@
-{% assign pages = site.pages | where_exp: "item", "item.nav_exclude != true" %}
-{% for item in pages %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
