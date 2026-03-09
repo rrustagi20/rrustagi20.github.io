@@ -1,0 +1,527 @@
+/* Minimal CSS for index.html - Only essential styles */
+
+/* ============ Core Reset & Typography ============ */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none !important;
+    list-style: none !important;
+    outline: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+a, a:hover, a:focus {
+    color: inherit;
+}
+
+body {
+    font-family: "Raleway", "arial-adjusted", "roboto-adjusted";
+    position: relative;
+    font-size: 16px;
+    line-height: 1.65;
+    color: #484848;
+    -webkit-font-smoothing: antialiased;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.65;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* ============ Utility Classes ============ */
+.bg-gray {
+    background-color: #f2f2f2;
+}
+
+.pt-30 {
+    padding-top: 30px !important;
+}
+
+.pt-40 {
+    padding-top: 40px !important;
+}
+
+.pt-50 {
+    padding-top: 50px !important;
+}
+
+.pt-100 {
+    padding-top: 100px !important;
+}
+
+.pb-50 {
+    padding-bottom: 50px !important;
+}
+
+.pb-100 {
+    padding-bottom: 100px !important;
+}
+
+.mt-30 {
+    margin-top: 30px !important;
+}
+
+/* ============ Heading Styles ============ */
+.heading {
+    margin-bottom: 50px;
+}
+
+.heading h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* ============ Button Styles ============ */
+.main-btn {
+    display: inline-block;
+    background-color: #222;
+    padding: 10px 20px;
+    border: 2px solid #222;
+    color: #fff;
+    text-transform: uppercase;
+    transition: .2s background-color ease;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.main-btn:hover {
+    color: #222;
+    background-color: transparent;
+}
+
+/* ============ Navbar ============ */
+nav.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    transition: all .5s ease;
+}
+
+nav.navbar .logo {
+    font-size: 22px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav.navbar .navbar-toggler {
+    border: 0;
+}
+
+nav.navbar .navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+nav.navbar .nav-item {
+    font-size: 13px;
+    font-weight: 400;
+    padding-right: 13px;
+    padding-left: 13px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+nav.navbar .nav-item:first-child {
+    padding-left: 0;
+}
+
+nav.navbar .nav-item:last-child {
+    padding-right: 0;
+}
+
+nav.navbar .nav-item .nav-link {
+    color: #fff;
+    position: relative;
+    text-decoration: none;
+    padding: 0;
+}
+
+nav.navbar .nav-item .nav-link:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+nav.navbar .nav-item .nav-link.active:before,
+nav.navbar .nav-item .nav-link.last-active:before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+nav.fixed-top {
+    position: fixed;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: #fff;
+    box-shadow: 0px 0px 18px 1px rgba(0, 0, 0, 0.1);
+}
+
+nav.fixed-top .logo {
+    color: #000;
+}
+
+nav.fixed-top .logo:focus,
+nav.fixed-top .logo:hover {
+    color: #000;
+}
+
+nav.fixed-top .navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+nav.fixed-top .nav-item {
+    color: #000;
+}
+
+nav.fixed-top .nav-item .nav-link {
+    color: #000 !important;
+}
+
+nav.fixed-top .nav-item .nav-link:before {
+    background-color: #000;
+}
+
+/* ============ Banner Section ============ */
+.banner {
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner:after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #000;
+    z-index: 2;
+    opacity: .5;
+}
+
+.banner .banner-caption {
+    top: 50%;
+    position: absolute;
+    color: #ffffff;
+    z-index: 11;
+    width: 100%;
+    transform: translateY(-50%);
+    padding-left: 350px;
+}
+
+.banner .banner-caption h1 {
+    font-size: 88px;
+    font-weight: 900;
+    color: #ffffff;
+    font-display: optional;
+    font-family: "arial-h1-adjusted", "roboto-h1-adjusted";
+}
+
+.banner .banner-caption p {
+    font-size: 24px;
+    font-family: "arial-adjusted", "roboto-adjusted";
+    color: #ffffff;
+    font-display: optional;
+}
+
+.cd-headline {
+    font-size: 3rem;
+    line-height: 1.2;
+}
+
+.cd-words-wrapper {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+}
+
+.cd-words-wrapper b {
+    display: inline-block;
+    position: absolute;
+    white-space: nowrap;
+    left: 0;
+    top: 0;
+}
+
+.cd-words-wrapper b.is-visible {
+    position: relative;
+}
+
+.cd-headline.clip span {
+    display: inline-block;
+    padding: .2em 0;
+}
+
+.cd-headline.clip .cd-words-wrapper {
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.cd-headline.clip .cd-words-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    right: 0;
+    width: 2px;
+    height: 70%;
+    background-color: #aebcb9;
+}
+
+.cd-headline.clip b {
+    opacity: 0;
+}
+
+.cd-headline b.is-visible {
+    opacity: 1;
+    font-weight: 700;
+}
+
+.arrow {
+    position: absolute;
+    bottom: 10vh;
+    width: 100vw;
+    z-index: 11;
+    padding-left: 75px;
+}
+
+.arrow a {
+    color: #fff;
+}
+
+/* ============ About Section ============ */
+section.about .about-img {
+    position: relative;
+}
+
+section.about .about-img:before {
+    content: "";
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: -10%;
+    left: -10%;
+    z-index: 0;
+}
+
+section.about .about-img img {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 0 0 85px 0 rgba(0, 0, 0, 0.14);
+}
+
+section.about .about-content .about-heading {
+    margin-bottom: 20px;
+}
+
+section.about .about-content .about-heading h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+section.about .about-content p {
+    line-height: 28px;
+}
+
+section.about .about-content .social-icons {
+    margin-top: 30px;
+    width: 50%;
+}
+
+section.about .about-content .social-icons a {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+    margin-right: 10px;
+    background-color: #222;
+    border-radius: 50%;
+    border: 2px solid #222;
+    width: 30px;
+    height: 30px;
+    transition: .2s all ease;
+}
+
+section.about .about-content .social-icons a .fa {
+    color: #fff;
+    transition: .2s all ease;
+}
+
+section.about .about-content .social-icons a:hover {
+    border: 2px solid #222;
+    background: transparent;
+    line-height: 26px;
+}
+
+section.about .about-content .social-icons a:hover .fa {
+    color: #222;
+}
+
+section.about .about-content .about-button {
+    margin-top: 23px;
+}
+
+/* ============ Research & Projects Sections ============ */
+section.research .paper-info,
+section.projects .paper-info {
+    font-size: 16px;
+    font-weight: 450;
+}
+
+section.research .paper-info a,
+section.projects .paper-info a {
+    color: rgb(12, 109, 189);
+}
+
+section.research .paper-info heading,
+section.projects .paper-info heading {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(0, 71, 119);
+}
+
+section.research .paper-thumbnail,
+section.projects .paper-thumbnail {
+    margin-bottom: 30px;
+    padding-right: 10px;
+}
+
+section.research .paper-thumbnail img,
+section.projects .paper-thumbnail img {
+    width: 90%;
+    height: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 10px;
+}
+
+section.research .paper-thumbnail:hover img,
+section.projects .paper-thumbnail:hover img {
+    box-shadow: 0 5px 30px #e3e3e3;
+    border-color: #f2f2f2;
+}
+
+/* ============ Footer ============ */
+footer {
+    background: #222;
+}
+
+footer .copy {
+    font-size: 14px;
+    color: #aaa;
+}
+
+/* ============ Mobile Responsive ============ */
+@media screen and (max-width: 991px) {
+    .navbar-collapse {
+        text-align: center;
+        background-color: rgba(34, 34, 34, 0.9);
+    }
+    .navbar-collapse .nav-item {
+        padding: 0 !important;
+    }
+    .navbar-collapse .nav-item a {
+        display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .fixed-top .navbar-collapse {
+        background-color: transparent;
+    }
+    .banner .banner-caption h1 {
+        font-size: 75px;
+    }
+    .banner .banner-caption p {
+        font-size: 21px;
+    }
+    section.about .about-img:before {
+        display: none;
+    }
+    section.about .about-content {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .banner .banner-caption {
+        padding-left: 20px;
+    }
+    .banner .banner-caption h1 {
+        font-size: 46px;
+    }
+    .banner .banner-caption p {
+        font-size: 17px;
+    }
+    .cd-headline {
+        display: none;
+    }
+    .arrow {
+        padding-left: 20px;
+    }
+}
+
+/* ============ Fallback Fonts ============ */
+@font-face {
+    font-family: arial-adjusted;
+    src: local("Arial");
+    size-adjust: 103%;
+    ascent-override: 90%;
+    descent-override: 25%;
+    line-gap-override: 0%;
+}
+
+@font-face {
+    font-family: arial-h1-adjusted;
+    src: local("Arial");
+    size-adjust: 104.8%;
+    ascent-override: 89%;
+    descent-override: 23%;
+    line-gap-override: 0%;
+}
+
+@font-face {
+    font-family: roboto-adjusted;
+    src: local("Roboto");
+    size-adjust: 103%;
+    ascent-override: 90%;
+    descent-override: 25%;
+    line-gap-override: 0%;
+}
+
+@font-face {
+    font-family: roboto-h1-adjusted;
+    src: local("Roboto");
+    size-adjust: 103%;
+    ascent-override: 90%;
+    descent-override: 25%;
+    line-gap-override: 0%;
+}
